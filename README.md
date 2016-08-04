@@ -449,7 +449,7 @@
 * [react-native](https://github.com/facebook/react-native) - A framework for building native apps with React.
 * [DroidPlugin](https://github.com/DroidPluginTeam/DroidPlugin) - A plugin framework on android,Run any third-party apk without installation, modification or repackage
 * [DragGridView](https://github.com/xiaanming/DragGridView) - Android library implement drag GridView item to change with animation
-* [Swordfish](https://github.com/saymagic/Swordfish) - 用Docker搭建微信公众号
+* [Swordfish](https://github.com/saymagic/Swordfish) - Set up Wechat Pub with Docker.
 * [iqq](https://github.com/im-qq/iqq) - 一个即开即用的桌面QQ客户端，风格可能类似于Mac版QQ。
 * [webqq-core](https://github.com/im-qq/webqq-core) - 一个基于WebQQ协议开发的库，您可以基于这个库让您的程序集成QQ相关的功能。
 * [guice](https://github.com/mybatis/guice) - Google Guice integration for MyBatis 3
@@ -1870,6 +1870,7 @@
 
 ## Python
 
+* [ipapy](https://github.com/hades0918/ipapy) - iOS项目自动打包脚本
 * [github3.py](https://github.com/sigmavirus24/github3.py) - Python library for interfacing with the GitHub APIv3
 * [django-token](https://github.com/jasonbeverage/django-token) - Simple token based authentication for Django
 * [starred](https://github.com/maguowei/starred) - creating your own Awesome List used GitHub stars!
@@ -2010,6 +2011,8 @@
 
 ## Ruby
 
+* [fir-cli](https://github.com/FIRHQ/fir-cli) - fir.im command-line interface
+* [gemoji](https://github.com/github/gemoji) - Emoji images and names.
 * [bara](https://github.com/liubin/bara) - バラ（薔薇）
 * [guides](https://github.com/thoughtbot/guides) - A guide for programming in style.
 * [mplayerosx-builds](https://github.com/pigoz/mplayerosx-builds) - build scripts of mplayer2 for Mac OSX
