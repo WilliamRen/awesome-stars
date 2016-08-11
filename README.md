@@ -51,6 +51,7 @@
 
 ## Batchfile
 
+* [python-guide](https://github.com/kennethreitz/python-guide) - Python best practices guidebook, written for Humans.
 * [smarthosts](https://github.com/abngsa/smarthosts) - Automatically exported from code.google.com/p/smarthosts
 
 ## C
@@ -197,6 +198,8 @@
 
 ## C++
 
+* [qwx](https://github.com/xiangzhai/qwx) - WeChat KDE frontend 微信 KDE 前端 http://xiangzhai.github.io/qwx
+* [EasyPlayer](https://github.com/EasyDarwin/EasyPlayer) - SDK：RTSP Player播放器，支持多平台：Windows、Android、IOS(开发中)
 * [electron](https://github.com/electron/electron) - Build cross platform desktop apps with JavaScript, HTML, and CSS
 * [galaxy](https://github.com/baidu/galaxy) - Galaxy is a cluster management system.
 * [shuttle](https://github.com/baidu/shuttle) - A fast computing framework based on Galaxy
@@ -346,6 +349,14 @@
 
 ## HTML
 
+* [captcha](https://github.com/apicloudcom/captcha) - 图片验证码
+* [QQFilm-Source](https://github.com/apicloudcom/QQFilm-Source) - 由社区开发者提供的模仿《QQ电影票》开源项目，项目亮点：欢迎引导页、城市选择、展示切换…
+* [163music-Source](https://github.com/apicloudcom/163music-Source) - 由社区开发者提供的模仿《网易云音乐》开源项目，项目亮点：框架设计与实现…
+* [Fanli-Source](https://github.com/apicloudcom/Fanli-Source) - 由社区开发者提供的模仿《返利网》开源项目，项目亮点：flex布局、远程网页中注入自己的代码…
+* [Tmall-Source](https://github.com/apicloudcom/Tmall-Source) - 由社区开发者提供的模仿《天猫》开源项目，项目亮点：frameGroup 配合布局实现导航切换…
+* [Dianping-Source](https://github.com/apicloudcom/Dianping-Source) - 由社区开发者提供的模仿《大众点评》开源项目，项目亮点：scanner 、speechRecognizer 模块使用、可使用浏览器浏览布局…
+* [Eleme-Source](https://github.com/apicloudcom/Eleme-Source) - 由社区开发者提供的模仿《饿了么》开源项目，项目亮点：baiduLocation 使用、flex 布局…
+* [fullstackpython.com](https://github.com/mattmakai/fullstackpython.com) - Full Stack Python source with Pelican, Bootstrap and Markdown.
 * [KJFrame.github.io](https://github.com/KJFrame/KJFrame.github.io) - 
 * [spring-framework-reference](https://github.com/abel533/spring-framework-reference) - Spring4框架参考文档 - 中文版
 * [AdminLTE](https://github.com/almasaeed2010/AdminLTE) - AdminLTE - Free Premium Admin control Panel Theme That Is Based On Bootstrap 3.x
@@ -375,6 +386,8 @@
 
 ## Java
 
+* [EasyPlayer](https://github.com/jiaozebo/EasyPlayer) - Android RTSP Player base on EasyDarwin
+* [okhttputils](https://github.com/hongyangAndroid/okhttputils) - okhttp的辅助类
 * [GithubAndroidSdk](https://github.com/gitskarios/GithubAndroidSdk) - [DEPRECATED] Android SDK for Github API
 * [android-player](https://github.com/geftimov/android-player) - Android animation when entering new screen.
 * [requests](https://github.com/caoqianli/requests) - Easy to use and flexible http lib for java
@@ -408,7 +421,7 @@
 * [BorderViewDemo](https://github.com/lf8289/BorderViewDemo) - 
 * [WTF](https://github.com/junior9919/WTF) - WechaT Framework
 * [android-MediaBrowserService](https://github.com/googlesamples/android-MediaBrowserService) - 
-* [jstorm](https://github.com/alibaba/jstorm) - Enterprise Storm
+* [jstorm](https://github.com/alibaba/jstorm) - Enterprise Stream Process Engine
 * [i-jetty](https://github.com/jetty-project/i-jetty) - Jetty for Android (moved from code.google.com)
 * [Rainville](https://github.com/feelinglucky/Rainville) - Rain Noise for Android
 * [Vitamio](https://github.com/CharonChui/Vitamio) - This is an unofficial mirror (with some minor bugfix, see Changelog for details.) for android volley library, the source code will synchronize periodically with the official volley repository.
@@ -531,7 +544,7 @@
 * [spring4-mvc-gradle-xml-hello-world](https://github.com/mkyong/spring4-mvc-gradle-xml-hello-world) - Gradle + Spring 4 MVC hello world example (XML)
 * [rabbitmq-java-client](https://github.com/rabbitmq/rabbitmq-java-client) - RabbitMQ Java client
 * [leakcanary](https://github.com/square/leakcanary) - A memory leak detection library for Android and Java.
-* [material-dialogs](https://github.com/afollestad/material-dialogs) - A beautiful, easy-to-use, and customizable dialogs API.
+* [material-dialogs](https://github.com/afollestad/material-dialogs) - A beautiful, fluid, and customizable dialogs API.
 * [vlc-android-macbuild](https://github.com/Bilibili/vlc-android-macbuild) - Deprecated, official site is recommended http://git.videolan.org
 * [DynamicGrid](https://github.com/Bilibili/DynamicGrid) - Drag and drop GridView for Android
 * [muzei-bilibili](https://github.com/Bilibili/muzei-bilibili) - Muzei 插件，bilibili 壁纸源
@@ -1169,6 +1182,9 @@
 
 ## JavaScript
 
+* [maimai](https://github.com/apicloudcom/maimai) - 脉脉社交APP源码
+* [Sohu-Source](https://github.com/apicloudcom/Sohu-Source) - 由社区开发者提供的模仿《搜狐视频》开源项目，项目亮点：图文排版、9 宫格布局、16宫格布局…
+* [ios-ipa-server](https://github.com/bumaociyuan/ios-ipa-server) - Create a HTTPS Server to install iOS ipa
 * [react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 * [medis](https://github.com/luin/medis) - Medis is a beautiful, easy-to-use Mac database management application for Redis.
 * [jquery-weui](https://github.com/lihongxun945/jquery-weui) - UI lib for build hybrid wechat web app
@@ -1302,6 +1318,7 @@
 
 ## Objective-C
 
+* [UIChatBox](https://github.com/apicloudcom/UIChatBox) - 聊天盒子模块源码（内含iOS和android）
 * [BabyBluetooth](https://github.com/coolnameismy/BabyBluetooth) - :baby: The easiest way to use Bluetooth (BLE )in ios/os ,even bady can use . 一个非常容易使用的蓝牙库,适用于ios和os
 * [sentry-ios-example](https://github.com/getsentry/sentry-ios-example) - Example iOS application reporting to Sentry
 * [MiniDic](https://github.com/tanhaogg/MiniDic) - Mac上的一个小巧的电子词典工具
@@ -1772,7 +1789,7 @@
 * [iphone-3.0-cookbook-](https://github.com/erica/iphone-3.0-cookbook-) - Sample Code
 * [egodatabase](https://github.com/enormego/egodatabase) - EGODatabase is a thread-safe Objective-C SQLite wrapper with full support for asynchronous SQLite calls as well as built in NSOperationQueue support.
 * [three20](https://github.com/facebookarchive/three20) - Three20 is an Objective-C library for iPhone developers
-* [gh-unit](https://github.com/gh-unit/gh-unit) - Test Framework for Objective-C
+* [gh-unit](https://github.com/gh-unit/gh-unit) - DEPRECATED Test Framework for Objective-C
 * [asi-web-thumbnail](https://github.com/pokeb/asi-web-thumbnail) - A command line tool for Mac OS X that generates thumbnails from web pages using WebKit, with an API to allow Cocoa applications to use it
 * [asi-http-request](https://github.com/pokeb/asi-http-request) - Easy to use CFNetwork wrapper for HTTP requests, Objective-C,  Mac OS X and iPhone
 
@@ -1859,6 +1876,7 @@
 
 ## Perl
 
+* [SJTUThesis](https://github.com/weijianwen/SJTUThesis) - A XeLaTeX template for Shanghai Jiao Tong University (SJTU) thesis.
 * [ngx_http_substitutions_filter_module](https://github.com/yaoweibin/ngx_http_substitutions_filter_module) - a filter module which can do both regular expression and fixed string substitutions for nginx
 * [iec104](https://github.com/vlet/iec104) - Perl implementation of IEC 60870-5-104 standard (server and client)
 * [Net-IEC104](https://github.com/gitpan/Net-IEC104) - Read-only release history for Net-IEC104
@@ -1870,6 +1888,9 @@
 
 ## Python
 
+* [WeixinBot](https://github.com/Urinx/WeixinBot) - 网页版微信API，包含终端版微信及微信机器人
+* [wxBot](https://github.com/liuwons/wxBot) - Python网页微信API
+* [pyfiglet](https://github.com/pwaller/pyfiglet) - An implementation of figlet written in python
 * [ipapy](https://github.com/hades0918/ipapy) - iOS项目自动打包脚本
 * [github3.py](https://github.com/sigmavirus24/github3.py) - Python library for interfacing with the GitHub APIv3
 * [django-token](https://github.com/jasonbeverage/django-token) - Simple token based authentication for Django
@@ -2011,6 +2032,7 @@
 
 ## Ruby
 
+* [shenzhen](https://github.com/nomad/shenzhen) - CLI for Building & Distributing iOS Apps (.ipa Files)
 * [fir-cli](https://github.com/FIRHQ/fir-cli) - fir.im command-line interface
 * [gemoji](https://github.com/github/gemoji) - Emoji images and names.
 * [bara](https://github.com/liubin/bara) - バラ（薔薇）
@@ -2087,6 +2109,7 @@
 
 ## TeX
 
+* [resume](https://github.com/billryan/resume) - An elegant \LaTeX\ résumé template
 * [tensorflow-zh](https://github.com/jikexueyuanwiki/tensorflow-zh) - 谷歌全新开源人工智能系统TensorFlow官方文档中文版
 * [sdcamp](https://github.com/larrycai/sdcamp) - agile software development - boot camp
 
