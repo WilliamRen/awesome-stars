@@ -27,13 +27,13 @@
     - [Kotlin](#kotlin)
     - [Lua](#lua)
     - [Makefile](#makefile)
+    - [NSIS](#nsis)
     - [Objective-C](#objective-c)
     - [Objective-C++](#objective-c++)
     - [Others](#others)
     - [PHP](#php)
     - [Perl](#perl)
     - [Python](#python)
-    - [QML](#qml)
     - [Ruby](#ruby)
     - [Scala](#scala)
     - [Shell](#shell)
@@ -56,12 +56,18 @@
 
 ## C
 
+* [shairport](https://github.com/abrasive/shairport) - Airtunes emulator! Shairport is no longer maintained.
+* [linux](https://github.com/raspberrypi/linux) - Kernel source tree for Raspberry Pi Foundation-provided kernel builds. Issues unrelated to the linux kernel should be posted on the community forum at https://www.raspberrypi.org/forum
+* [firmware](https://github.com/raspberrypi/firmware) - This repository contains pre-compiled binaries of the current Raspberry Pi  kernel and modules, userspace libraries, and bootloader/GPU firmware.
+* [rpi-firmware](https://github.com/notro/rpi-firmware) - Deprecated: Raspberry Pi kernel and firmware with support for FBTFT
+* [spi-bcm2708](https://github.com/notro/spi-bcm2708) - Discontinued. SPI master driver with DMA support for the Raspberry Pi
+* [fbtft](https://github.com/notro/fbtft) - Linux Framebuffer drivers for small TFT LCD display modules
 * [pybloomfiltermmap](https://github.com/axiak/pybloomfiltermmap) - Fast Python Bloom Filter using Mmap
 * [linux](https://github.com/torvalds/linux) - Linux kernel source tree
 * [Podax](https://github.com/thasmin/Podax) - Podcast client for Android
 * [Droidgain](https://github.com/beide/Droidgain) - A rather crude, but functional, port of MP3Gain to Android. Please not that it does not compile with the normal ndk, because the ndk library was buggy. Just comment the faulty lines and it will work. Please note that I have long since abandoned this project.
 * [swift-corelibs-foundation](https://github.com/apple/swift-corelibs-foundation) - The Foundation Project, providing core utilities, internationalization, and OS independence
-* [JSPatch](https://github.com/bang590/JSPatch) - JSPatch bridge Objective-C and Javascript using the Objective-C runtime. You can call any Objective-C class and method in JavaScript by just including a small engine. JSPatch is generally use for hotfix iOS App.
+* [JSPatch](https://github.com/bang590/JSPatch) - JSPatch bridge Objective-C and Javascript using the Objective-C runtime. You can call any Objective-C class and method in JavaScript by just including a small engine. JSPatch is generally used to hotfix iOS App.
 * [EasyIOS-Swift](https://github.com/EasyIOS/EasyIOS-Swift) - Swift 2.0 version of EasyIOS,support HTML and FlexBox
 * [openssl](https://github.com/openssl/openssl) - TLS/SSL and crypto library
 * [OpenSSL-Vitamio](https://github.com/yixia/OpenSSL-Vitamio) - OpenSSL for Vitamio Android (openssl-1.0.1e)
@@ -198,6 +204,7 @@
 
 ## C++
 
+* [mac-osx-pl2303](https://github.com/bjarnoldus/mac-osx-pl2303) - PL2303 USB to Serial Driver for Mac OS X
 * [qwx](https://github.com/xiangzhai/qwx) - WeChat KDE frontend 微信 KDE 前端 http://xiangzhai.github.io/qwx
 * [EasyPlayer](https://github.com/EasyDarwin/EasyPlayer) - SDK：RTSP Player播放器，支持多平台：Windows、Android、IOS(开发中)
 * [electron](https://github.com/electron/electron) - Build cross platform desktop apps with JavaScript, HTML, and CSS
@@ -386,6 +393,10 @@
 
 ## Java
 
+* [InstaMaterial](https://github.com/frogermcs/InstaMaterial) - Implementation of Instagram with Material Design (originally based on Emmanuel Pacamalan's concept)
+* [JazzyViewPager](https://github.com/jfeinstein10/JazzyViewPager) - An easy to use ViewPager that adds an awesome set of custom swiping animations. Just change your ViewPagers to JazzyViewPagers, two more steps, and you're good to go!
+* [FlyRefresh](https://github.com/race604/FlyRefresh) - The implementation of https://dribbble.com/shots/2067564-Replace
+* [conference-app](https://github.com/codecentric/conference-app) - Hackergarden conference app
 * [EasyPlayer](https://github.com/jiaozebo/EasyPlayer) - Android RTSP Player base on EasyDarwin
 * [okhttputils](https://github.com/hongyangAndroid/okhttputils) - okhttp的辅助类
 * [GithubAndroidSdk](https://github.com/gitskarios/GithubAndroidSdk) - [DEPRECATED] Android SDK for Github API
@@ -887,7 +898,6 @@
 * [IconicDroid](https://github.com/atermenji/IconicDroid) - IconicDroid is a custom Android Drawable which allows to draw icons from several iconic fonts.
 * [RibbonMenu](https://github.com/darvds/RibbonMenu) - Navigation menu for Android (based off Google+ app)
 * [SwitchButton](https://github.com/xiaopansky/SwitchButton) - 这是Android上的一个滑动开关按钮开源项目
-* [GlowPadView](https://github.com/nadavfima/GlowPadView) - GlowPadView for Android is a great library to implement Google's lockscreen and new alarmclock style. (Taken from Android's Source Code)
 * [android-screenshot-lib](https://github.com/rtyley/android-screenshot-lib) - On-demand screenshots for your Android integration tests
 * [hugo](https://github.com/JakeWharton/hugo) - Annotation-triggered method call logging for your debug builds.
 * [scalpel](https://github.com/JakeWharton/scalpel) - A surgical debugging tool to uncover the layers under your app.
@@ -1114,7 +1124,7 @@
 * [android-async-http](https://github.com/loopj/android-async-http) - An Asynchronous HTTP Library for Android
 * [Android-PullToRefresh](https://github.com/chrisbanes/Android-PullToRefresh) - DEPRECATED
 * [android-maven-plugin](https://github.com/simpligility/android-maven-plugin) - Maven Plugin for Android Application development and more
-* [roboguice](https://github.com/roboguice/roboguice) - Google Guice on Android, version 3.0
+* [roboguice](https://github.com/roboguice/roboguice) - Google Guice on Android, version 3.0 [RETIRED]
 * [xUtils](https://github.com/wyouflf/xUtils) - android orm, bitmap, http, view inject...
 * [Cuzy-Android-demo](https://github.com/TheIndex/Cuzy-Android-demo) - Android demo, that shows the capabilities of Cuzy SDK (淘宝客), that can be found on http://www.cuzy.com
 * [android_download_manager](https://github.com/WilliamRen/android_download_manager) - multi-thread, broken-point-resume download library for Android
@@ -1182,6 +1192,8 @@
 
 ## JavaScript
 
+* [ZhiHuDaily-React-Native](https://github.com/race604/ZhiHuDaily-React-Native) - A Zhihu Daily(http://daily.zhihu.com/) App client implemented using React Native (Android and iOS).
+* [MagicMirror](https://github.com/MichMich/MagicMirror) - MagicMirror²
 * [maimai](https://github.com/apicloudcom/maimai) - 脉脉社交APP源码
 * [Sohu-Source](https://github.com/apicloudcom/Sohu-Source) - 由社区开发者提供的模仿《搜狐视频》开源项目，项目亮点：图文排版、9 宫格布局、16宫格布局…
 * [ios-ipa-server](https://github.com/bumaociyuan/ios-ipa-server) - Create a HTTPS Server to install iOS ipa
@@ -1316,8 +1328,13 @@
 * [PhotoProcessing](https://github.com/lightbox/PhotoProcessing) - A demo of how you can process photos leveraging the ndk.
 * [OpenELEC.tv](https://github.com/OpenELEC/OpenELEC.tv) - OpenELEC - The living room PC for everyone
 
+## NSIS
+
+* [ipscan](https://github.com/angryziber/ipscan) - Angry IP Scanner - fast and friendly network scanner
+
 ## Objective-C
 
+* [osx-usb-serial-detect](https://github.com/bjarnoldus/osx-usb-serial-detect) - Detect support for USB to Serial Devices in OS X
 * [UIChatBox](https://github.com/apicloudcom/UIChatBox) - 聊天盒子模块源码（内含iOS和android）
 * [BabyBluetooth](https://github.com/coolnameismy/BabyBluetooth) - :baby: The easiest way to use Bluetooth (BLE )in ios/os ,even bady can use . 一个非常容易使用的蓝牙库,适用于ios和os
 * [sentry-ios-example](https://github.com/getsentry/sentry-ios-example) - Example iOS application reporting to Sentry
@@ -1801,6 +1818,7 @@
 
 ## Others
 
+* [rpi-bin](https://github.com/vimagick/rpi-bin) - :strawberry: pre-built binaries for raspberry-pi
 * [awesome-stars](https://github.com/maguowei/awesome-stars) - Awesome List of my own!
 * [WeChat](https://github.com/Thinklion/WeChat) - 
 * [AndroidNote](https://github.com/CharonChui/AndroidNote) - Android study notes.
@@ -1888,6 +1906,16 @@
 
 ## Python
 
+* [django-modeldict](https://github.com/YPlan/django-modeldict) - Stores a model as a dictionary
+* [durabledict](https://github.com/disqus/durabledict) - Dictionary-style access to different types of models.
+* [Tcp-DNS-proxy](https://github.com/henices/Tcp-DNS-proxy) - A TCP dns proxy which can get the RIGHT ip address
+* [debinterface](https://github.com/dggreenbaum/debinterface) - A simple Python library for dealing with the /etc/network/interfaces file in most Debian based distributions.
+* [tower-cli](https://github.com/ansible/tower-cli) - Command line tool and client library for Ansible Tower's REST API
+* [ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom code to deploy and update your applications— automate in a language that approaches plain English, using SSH, with no agents to install on remote systems.
+* [epaper_clock](https://github.com/emptyhua/epaper_clock) - make a clock with raspberry pi and e-paper screen
+* [w1thermsensor](https://github.com/timofurrer/w1thermsensor) - A Python package and CLI tool to work with w1 temperature sensors like DS1822, DS18S20 & DS18B20 on the Raspbery Pi, Beagle Bone and other devices.
+* [python-gpiozero](https://github.com/RPi-Distro/python-gpiozero) - A simple interface to everyday GPIO components used with Raspberry Pi
+* [cupp](https://github.com/Mebus/cupp) - Common User Passwords Profiler (CUPP)
 * [WeixinBot](https://github.com/Urinx/WeixinBot) - 网页版微信API，包含终端版微信及微信机器人
 * [wxBot](https://github.com/liuwons/wxBot) - Python网页微信API
 * [pyfiglet](https://github.com/pwaller/pyfiglet) - An implementation of figlet written in python
@@ -2026,10 +2054,6 @@
 * [repo](https://github.com/ossxp-com/repo) - Android repo works without review server
 * [gitmon](https://github.com/spajus/gitmon) - Git Repository Monitor
 
-## QML
-
-* [deepin-screenshot](https://github.com/linuxdeepin/deepin-screenshot) - mirrored from https://cr.deepin.io/#/admin/projects/deepin-screenshot
-
 ## Ruby
 
 * [shenzhen](https://github.com/nomad/shenzhen) - CLI for Building & Distributing iOS Apps (.ipa Files)
@@ -2058,6 +2082,10 @@
 
 ## Shell
 
+* [ansible-examples](https://github.com/ansible/ansible-examples) - A few starter examples of ansible playbooks, to show features and how they work together.  See http://galaxy.ansible.com for example roles from the Ansible community for deploying many popular applications.
+* [pi-gen](https://github.com/RPi-Distro/pi-gen) - Tool used to create the raspberrypi.org Raspbian images
+* [raspi-config](https://github.com/RPi-Distro/raspi-config) - Configuration tool for the Raspberry Pi
+* [rpi-update](https://github.com/Hexxeh/rpi-update) - An easier way to update the firmware of your Raspberry Pi
 * [hadoop-lzo](https://github.com/twitter/hadoop-lzo) - Refactored version of code.google.com/hadoop-gpl-compression for hadoop 0.20
 * [freeradius-client](https://github.com/FreeRADIUS/freeradius-client) - A BSD licenced RADIUS client library
 * [FFmpeg-iOS-build-script](https://github.com/kewlbear/FFmpeg-iOS-build-script) - Shell scripts to build FFmpeg for iOS and tvOS
