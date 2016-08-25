@@ -56,6 +56,7 @@
 
 ## C
 
+* [ngx_small_light](https://github.com/cubicdaiya/ngx_small_light) - Dynamic Image Transformation Module For nginx.
 * [shairport](https://github.com/abrasive/shairport) - Airtunes emulator! Shairport is no longer maintained.
 * [linux](https://github.com/raspberrypi/linux) - Kernel source tree for Raspberry Pi Foundation-provided kernel builds. Issues unrelated to the linux kernel should be posted on the community forum at https://www.raspberrypi.org/forum
 * [firmware](https://github.com/raspberrypi/firmware) - This repository contains pre-compiled binaries of the current Raspberry Pi  kernel and modules, userspace libraries, and bootloader/GPU firmware.
@@ -356,6 +357,7 @@
 
 ## HTML
 
+* [md2pdf](https://github.com/vi5i0n/md2pdf) - Markdown to PDF Based Tornado Web
 * [captcha](https://github.com/apicloudcom/captcha) - 图片验证码
 * [QQFilm-Source](https://github.com/apicloudcom/QQFilm-Source) - 由社区开发者提供的模仿《QQ电影票》开源项目，项目亮点：欢迎引导页、城市选择、展示切换…
 * [163music-Source](https://github.com/apicloudcom/163music-Source) - 由社区开发者提供的模仿《网易云音乐》开源项目，项目亮点：框架设计与实现…
@@ -382,7 +384,6 @@
 * [emoji-cheat-sheet.com](https://github.com/WebpageFX/emoji-cheat-sheet.com) - A one pager for emojis on Campfire and GitHub
 * [xmpp-ftw-demo](https://github.com/xmpp-ftw/xmpp-ftw-demo) - Demos/examples of using xmpp-ftw
 * [ShareSDK-for-Android](https://github.com/MobClub/ShareSDK-for-Android) - A demo of Share SDK for Android
-* [cw-omnibus](https://github.com/commonsguy/cw-omnibus) - Source code to omnibus edition of _The Busy Coder's Guide to Android Development_
 * [Arduino](https://github.com/arduino/Arduino) - open-source electronics prototyping platform
 * [fastclick](https://github.com/ftlabs/fastclick) - Polyfill to remove click delays on browsers with touch UIs
 * [jsonlintdotcom](https://github.com/umbrae/jsonlintdotcom) - Source code for jsonlint.com
@@ -1054,6 +1055,7 @@
 * [world](https://github.com/openproject/world) - [DEPRECATED]打造系列百科世界:花界，养生世界...
 * [mp3agic-examples](https://github.com/mpatric/mp3agic-examples) - Example apps using mp3agic library
 * [mp3agic](https://github.com/mpatric/mp3agic) - A java library for reading mp3 files and reading / manipulating the ID3 tags (ID3v1 and ID3v2.2 through ID3v2.4).
+* [cw-omnibus](https://github.com/commonsguy/cw-omnibus) - Source code to omnibus edition of _The Busy Coder's Guide to Android Development_
 * [zxing](https://github.com/zxing/zxing) - Official ZXing ("Zebra Crossing") project home
 * [AndroidPushNotificationsDemo](https://github.com/tokudu/AndroidPushNotificationsDemo) - A example of an android app that receives push notifications using MQTT.
 * [freedomotic](https://github.com/freedomotic/freedomotic) - Open Internet of Things Framework - ThinG Wider!
@@ -1192,6 +1194,7 @@
 
 ## JavaScript
 
+* [Pastebin](https://github.com/vi5i0n/Pastebin) - A Paste of Code  Web System With Tornado
 * [ZhiHuDaily-React-Native](https://github.com/race604/ZhiHuDaily-React-Native) - A Zhihu Daily(http://daily.zhihu.com/) App client implemented using React Native (Android and iOS).
 * [MagicMirror](https://github.com/MichMich/MagicMirror) - MagicMirror²
 * [maimai](https://github.com/apicloudcom/maimai) - 脉脉社交APP源码
@@ -1894,6 +1897,7 @@
 
 ## Perl
 
+* [cloc](https://github.com/AlDanial/cloc) - cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.
 * [SJTUThesis](https://github.com/weijianwen/SJTUThesis) - A XeLaTeX template for Shanghai Jiao Tong University (SJTU) thesis.
 * [ngx_http_substitutions_filter_module](https://github.com/yaoweibin/ngx_http_substitutions_filter_module) - a filter module which can do both regular expression and fixed string substitutions for nginx
 * [iec104](https://github.com/vlet/iec104) - Perl implementation of IEC 60870-5-104 standard (server and client)
@@ -1906,6 +1910,7 @@
 
 ## Python
 
+* [doubanrobot](https://github.com/vi5i0n/doubanrobot) - A simple robot for douban.com
 * [django-modeldict](https://github.com/YPlan/django-modeldict) - Stores a model as a dictionary
 * [durabledict](https://github.com/disqus/durabledict) - Dictionary-style access to different types of models.
 * [Tcp-DNS-proxy](https://github.com/henices/Tcp-DNS-proxy) - A TCP dns proxy which can get the RIGHT ip address
@@ -2056,6 +2061,7 @@
 
 ## Ruby
 
+* [nginx-image-server](https://github.com/wantedly/nginx-image-server) - Dockerfile for Dynamic Image Transformation Server with Nginx and Small Light module
 * [shenzhen](https://github.com/nomad/shenzhen) - CLI for Building & Distributing iOS Apps (.ipa Files)
 * [fir-cli](https://github.com/FIRHQ/fir-cli) - fir.im command-line interface
 * [gemoji](https://github.com/github/gemoji) - Emoji images and names.
