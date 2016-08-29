@@ -18,6 +18,7 @@
     - [Eagle](#eagle)
     - [Emacs Lisp](#emacs lisp)
     - [Erlang](#erlang)
+    - [GCC Machine Description](#gcc machine description)
     - [Go](#go)
     - [Groovy](#groovy)
     - [HTML](#html)
@@ -56,6 +57,8 @@
 
 ## C
 
+* [ngx_image_thumb](https://github.com/3078825/ngx_image_thumb) - Nginx Image Module
+* [ngx_pngquant](https://github.com/x25/ngx_pngquant) - PNG compression module for Nginx
 * [ngx_small_light](https://github.com/cubicdaiya/ngx_small_light) - Dynamic Image Transformation Module For nginx.
 * [shairport](https://github.com/abrasive/shairport) - Airtunes emulator! Shairport is no longer maintained.
 * [linux](https://github.com/raspberrypi/linux) - Kernel source tree for Raspberry Pi Foundation-provided kernel builds. Issues unrelated to the linux kernel should be posted on the community forum at https://www.raspberrypi.org/forum
@@ -207,7 +210,7 @@
 
 * [mac-osx-pl2303](https://github.com/bjarnoldus/mac-osx-pl2303) - PL2303 USB to Serial Driver for Mac OS X
 * [qwx](https://github.com/xiangzhai/qwx) - WeChat KDE frontend 微信 KDE 前端 http://xiangzhai.github.io/qwx
-* [EasyPlayer](https://github.com/EasyDarwin/EasyPlayer) - SDK：RTSP Player播放器，支持多平台：Windows、Android、IOS(开发中)
+* [EasyPlayer](https://github.com/EasyDarwin/EasyPlayer) - SDK：RTSP Player播放器，支持多平台：Windows、Android、iOS
 * [electron](https://github.com/electron/electron) - Build cross platform desktop apps with JavaScript, HTML, and CSS
 * [galaxy](https://github.com/baidu/galaxy) - Galaxy is a cluster management system.
 * [shuttle](https://github.com/baidu/shuttle) - A fast computing framework based on Galaxy
@@ -329,8 +332,13 @@
 
 * [rabbitmq-server](https://github.com/rabbitmq/rabbitmq-server) - Open source multi-protocol messaging broker
 
+## GCC Machine Description
+
+* [CordovaCn](https://github.com/CordovaCn/CordovaCn) - Apache Cordova is an open-source mobile development framework. It allows you to use standard web technologies such as HTML5, CSS3, and JavaScript for cross-platform development, avoiding each mobile platforms' native development language. (Apache Cordova是一个开放源代码的移动开发框架，它允许你使用web技术如:JavaScript,HTML,CSS进行跨平台开发，避免使用原生开发。)
+
 ## Go
 
+* [picel](https://github.com/henvic/picel) - picel is a light-weight, blazing fast REST-ful micro service for image processing with a lean API
 * [freegeoip](https://github.com/fiorix/freegeoip) - IP geolocation web server
 * [lantern](https://github.com/getlantern/lantern) - :zap: Open Internet for everyone. Lantern is a free application that delivers fast, reliable and secure access to the open Internet for users in censored regions. It uses a variety of techniques to stay unblocked, including domain fronting, p2p, and pluggable transports.
 * [codis](https://github.com/CodisLabs/codis) - Proxy based Redis cluster solution supporting pipeline and scaling dynamically
@@ -1910,6 +1918,8 @@
 
 ## Python
 
+* [thumbor](https://github.com/thumbor/thumbor) - thumbor is an open-source photo thumbnail service by globo.com
+* [django-nginx-image](https://github.com/adw0rd/django-nginx-image) - Resizing and cropping images via Nginx, as well as caching the result
 * [doubanrobot](https://github.com/vi5i0n/doubanrobot) - A simple robot for douban.com
 * [django-modeldict](https://github.com/YPlan/django-modeldict) - Stores a model as a dictionary
 * [durabledict](https://github.com/disqus/durabledict) - Dictionary-style access to different types of models.
@@ -2088,6 +2098,7 @@
 
 ## Shell
 
+* [vagrant-thumbor-base](https://github.com/torchbox/vagrant-thumbor-base) - Vagrant box providing a thumbor service over HTTP
 * [ansible-examples](https://github.com/ansible/ansible-examples) - A few starter examples of ansible playbooks, to show features and how they work together.  See http://galaxy.ansible.com for example roles from the Ansible community for deploying many popular applications.
 * [pi-gen](https://github.com/RPi-Distro/pi-gen) - Tool used to create the raspberrypi.org Raspbian images
 * [raspi-config](https://github.com/RPi-Distro/raspi-config) - Configuration tool for the Raspberry Pi
