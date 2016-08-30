@@ -57,6 +57,7 @@
 
 ## C
 
+* [EasyAACEncoder](https://github.com/EasyDarwin/EasyAACEncoder) - OPEN：G711(PCMA/PCMU),G726,PCM音频转码到AAC，支持Windows/Linux/ARM
 * [ngx_image_thumb](https://github.com/3078825/ngx_image_thumb) - Nginx Image Module
 * [ngx_pngquant](https://github.com/x25/ngx_pngquant) - PNG compression module for Nginx
 * [ngx_small_light](https://github.com/cubicdaiya/ngx_small_light) - Dynamic Image Transformation Module For nginx.
@@ -208,6 +209,12 @@
 
 ## C++
 
+* [EasyRMS](https://github.com/EasyDarwin/EasyRMS) - OPEN：基于HLS的录像与回放服务器, 支持本地存储与阿里云对象存储OSS云存储
+* [EasyPusher](https://github.com/EasyDarwin/EasyPusher) - SDK：全平台支持，标准RTSP/RTP协议推送库，支持Windows、Linux、ARM、Android、IOS平台RTSP手机直播推送，非常稳定！
+* [EasyHLS](https://github.com/EasyDarwin/EasyHLS) - SDK：简单可靠的HLS打包库，调用非常简单，配套EasyDarwin的EasyHLSModule使用，提供HLS切片服务，也可以单独做为HLS的切片库！
+* [EasyCamera](https://github.com/EasyDarwin/EasyCamera) - OPEN：EasyCamera云摄像机方案,支持云直播、云控制、云录像、云回放的摄像机方案！
+* [EasyDarwin](https://github.com/babosa/EasyDarwin) - OPEN：高性能开源流媒体服务器，支持RTSP、HLS、HTTP直播
+* [EasyDarwin](https://github.com/EasyDarwin/EasyDarwin) - OPEN：高性能开源流媒体服务器，支持RTSP、HLS、HTTP直播
 * [mac-osx-pl2303](https://github.com/bjarnoldus/mac-osx-pl2303) - PL2303 USB to Serial Driver for Mac OS X
 * [qwx](https://github.com/xiangzhai/qwx) - WeChat KDE frontend 微信 KDE 前端 http://xiangzhai.github.io/qwx
 * [EasyPlayer](https://github.com/EasyDarwin/EasyPlayer) - SDK：RTSP Player播放器，支持多平台：Windows、Android、iOS
@@ -1336,6 +1343,7 @@
 
 ## Makefile
 
+* [EasyRTSPClient](https://github.com/EasyDarwin/EasyRTSPClient) - SDK：全平台支持，稳定、简单、高效的RTSPClient，支持Windows、Linux、ARM、Android、IOS平台，支持RTP Over TCP/UDP，支持断线重连，调用简单且成熟稳定！
 * [PhotoProcessing](https://github.com/lightbox/PhotoProcessing) - A demo of how you can process photos leveraging the ndk.
 * [OpenELEC.tv](https://github.com/OpenELEC/OpenELEC.tv) - OpenELEC - The living room PC for everyone
 
@@ -1918,6 +1926,7 @@
 
 ## Python
 
+* [ceryx](https://github.com/sourcelair/ceryx) - Dynamic reverse proxy based on NGINX OpenResty with an API
 * [thumbor](https://github.com/thumbor/thumbor) - thumbor is an open-source photo thumbnail service by globo.com
 * [django-nginx-image](https://github.com/adw0rd/django-nginx-image) - Resizing and cropping images via Nginx, as well as caching the result
 * [doubanrobot](https://github.com/vi5i0n/doubanrobot) - A simple robot for douban.com
