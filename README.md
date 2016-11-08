@@ -57,6 +57,29 @@
 
 ## C
 
+* [yasea](https://github.com/begeekmyfriend/yasea) - RTMP streaming client for Android
+* [shairport-sync](https://github.com/mikebrady/shairport-sync) - AirPlay audio player. Shairport Sync adds multi-room capability with Audio Synchronisation
+* [cups](https://github.com/apple/cups) - Official CUPS Sources
+* [nginx-methods-filter-module](https://github.com/wandenberg/nginx-methods-filter-module) - 
+* [nginx-sorted-querystring-module](https://github.com/wandenberg/nginx-sorted-querystring-module) - Nginx module to expose querystring parameters sorted in a variable to be used on cache_key as example
+* [nginx-selective-cache-purge-module](https://github.com/wandenberg/nginx-selective-cache-purge-module) - 
+* [nginx-push-stream-module](https://github.com/wandenberg/nginx-push-stream-module) - A pure stream http push technology for your Nginx setup. Comet made easy and really scalable.
+* [nginx-video-thumbextractor-module](https://github.com/wandenberg/nginx-video-thumbextractor-module) - Nginx module to extract thumbs from a video file
+* [ngx_white_black_list](https://github.com/codehunte/ngx_white_black_list) - add
+* [varnish-geoip](https://github.com/cosimo/varnish-geoip) - Varnish VCL "plugin" that geolocates client IP addresses (requires geoip)
+* [ngx_realtime_request_module](https://github.com/magicbear/ngx_realtime_request_module) - Nginx vhost 监控模块
+* [Nginx-limit-traffic-rate-module](https://github.com/bigplum/Nginx-limit-traffic-rate-module) - Limiting rate by given variables(like $request_uri, $remote_addr, etc..).
+* [dmtx-utils](https://github.com/dmtx/dmtx-utils) - libdmtx Utilities
+* [dmtx-wrappers](https://github.com/dmtx/dmtx-wrappers) - libdmtx Wrappers
+* [libdmtx](https://github.com/dmtx/libdmtx) - libdmtx Library
+* [zbar](https://github.com/npinchot/zbar) - ZBar python wrapper for ZBar bar code library
+* [fastdfs-nginx-module](https://github.com/happyfish100/fastdfs-nginx-module) - FastDFS nginx module
+* [libfastcommon](https://github.com/happyfish100/libfastcommon) - c common functions library extracted from my open source project FastDFS. this library is very simple and stable.  functions including: string, logger, chain, hash, socket, ini file reader, base64 encode / decode, url encode / decode, fast timer, skiplist, object pool etc. detail info please see the c header files.
+* [fastdfs](https://github.com/happyfish100/fastdfs) - FastDFS is an open source high performance distributed file system (DFS). It's major functions include: file storing, file syncing and file accessing, and design for high capacity and load balance.
+* [ngx-hdfs](https://github.com/wuzhouhui/ngx-hdfs) - Nginx on HDFS Module
+* [nginx-vod-module](https://github.com/kaltura/nginx-vod-module) - NGINX-based MP4 Repackager
+* [openresty](https://github.com/openresty/openresty) - Turning Nginx into a Full-Fledged Scriptable Web Platform
+* [lua-nginx-module](https://github.com/openresty/lua-nginx-module) - Embed the Power of Lua into NGINX HTTP servers
 * [EasyAACEncoder](https://github.com/EasyDarwin/EasyAACEncoder) - OPEN：G711(PCMA/PCMU),G726,PCM音频转码到AAC，支持Windows/Linux/ARM
 * [ngx_image_thumb](https://github.com/3078825/ngx_image_thumb) - Nginx Image Module
 * [ngx_pngquant](https://github.com/x25/ngx_pngquant) - PNG compression module for Nginx
@@ -94,7 +117,7 @@
 * [ngx_http_google_filter_module](https://github.com/cuber/ngx_http_google_filter_module) - Nginx Module for Google Mirror
 * [ijkplayer](https://github.com/Bilibili/ijkplayer) - Android/iOS video player based on FFmpeg n3.1, with MediaCodec, VideoToolbox support.
 * [FFmpeg-Vitamio](https://github.com/yixia/FFmpeg-Vitamio) - FFmpeg for Vitamio 4.0+
-* [ZBarBuildProj](https://github.com/SkillCollege/ZBarBuildProj) - ZBar项目修改后解决中文乱码问题的编译原项目
+* [ZBarBuildProj](https://github.com/chentao0707/ZBarBuildProj) - ZBar项目修改后解决中文乱码问题的编译原项目
 * [seafile](https://github.com/haiwen/seafile) - File syncing and sharing software with file encryption and group sharing, emphasis on reliability and high performance.
 * [beanstalkd](https://github.com/kr/beanstalkd) - Beanstalk is a simple, fast work queue.
 * [kamailio](https://github.com/sipwise/kamailio) - Kamailio SIP Proxy with Sipwise patches
@@ -106,7 +129,6 @@
 * [SOHU-DBProxy](https://github.com/SOHUDBA/SOHU-DBProxy) - 搜狐公司强大的数据库中间件
 * [freeradius-server](https://github.com/FreeRADIUS/freeradius-server) - The FreeRADIUS Server.  RADIUS, DHCP, and VMPS.
 * [ffmpeg-ndk](https://github.com/mcxiaoke/ffmpeg-ndk) - build ffmpeg with ndk for android
-* [firefox-ios](https://github.com/mozilla/firefox-ios) - Firefox for iOS
 * [ccache](https://github.com/ccache/ccache) - ccache - a fast compiler cache
 * [doom3do](https://github.com/Olde-Skuul/doom3do) - The complete archive for DOOM for the 3DO
 * [tsar-mod_nginx](https://github.com/taobao/tsar-mod_nginx) - nginx module for tsar
@@ -138,7 +160,7 @@
 * [IDZPrecompiledTheora](https://github.com/iosdevzone/IDZPrecompiledTheora) - libtheora compiled for iOS armv7, armv7s, arm64, i386 and x86_64
 * [IDZPrecompiledVorbis](https://github.com/iosdevzone/IDZPrecompiledVorbis) - libvorbis compiled for iOS armv7, armv7, arm64, i386, x86_64
 * [IDZPrecompiledSpeex](https://github.com/iosdevzone/IDZPrecompiledSpeex) - Speex 1.2rc1 for armv7, armv7s and i386
-* [QrCodeScan](https://github.com/SkillCollege/QrCodeScan) - Android手机客户端二维码扫描
+* [QrCodeScan](https://github.com/chentao0707/QrCodeScan) - Android手机客户端二维码扫描
 * [icomet](https://github.com/ideawu/icomet) - A C1000K comet/push server built with C++, for web and mobile app
 * [nginx-rtmp-module](https://github.com/arut/nginx-rtmp-module) - NGINX-based Media Streaming Server
 * [libav](https://github.com/libav/libav) - Libav github mirror, clone of git://git.libav.org/libav
@@ -195,7 +217,7 @@
 
 ## C#
 
-* [acat](https://github.com/01org/acat) - Assistive Context-Aware Toolkit
+* [acat](https://github.com/01org/acat) - Assistive Context-Aware Toolkit (ACAT)
 * [BTProgressHUD](https://github.com/nicwise/BTProgressHUD) - Port to Xamarin.iOS of the SVProgressHUD
 * [BaiduPushAspxServer](https://github.com/xiariqingquan/BaiduPushAspxServer) - 
 * [WeiXinSDK](https://github.com/loogn/WeiXinSDK) - 微信公开帐号接口
@@ -209,8 +231,11 @@
 
 ## C++
 
+* [Hello-LWF-Cocos2d-x](https://github.com/splhack/Hello-LWF-Cocos2d-x) - Hello LWF for C++ with Cocos2d-x renderer
+* [Hello-LWF-Cocos2d-x](https://github.com/sbhhbs/Hello-LWF-Cocos2d-x) - Sample code for cocos2d-x backed animation in android fragment
+* [zxing-cpp](https://github.com/glassechidna/zxing-cpp) - ZXing C++ Library
 * [EasyRMS](https://github.com/EasyDarwin/EasyRMS) - OPEN：基于HLS的录像与回放服务器, 支持本地存储与阿里云对象存储OSS云存储
-* [EasyPusher](https://github.com/EasyDarwin/EasyPusher) - SDK：全平台支持，标准RTSP/RTP协议推送库，支持Windows、Linux、ARM、Android、IOS平台RTSP手机直播推送，非常稳定！
+* [EasyPusher](https://github.com/EasyDarwin/EasyPusher) - SDK：全平台支持，标准RTSP/RTP协议推送库，支持Windows、Linux、ARM、Android、iOS平台RTSP手机直播推送，非常稳定！
 * [EasyHLS](https://github.com/EasyDarwin/EasyHLS) - SDK：简单可靠的HLS打包库，调用非常简单，配套EasyDarwin的EasyHLSModule使用，提供HLS切片服务，也可以单独做为HLS的切片库！
 * [EasyCamera](https://github.com/EasyDarwin/EasyCamera) - OPEN：EasyCamera云摄像机方案,支持云直播、云控制、云录像、云回放的摄像机方案！
 * [EasyDarwin](https://github.com/babosa/EasyDarwin) - OPEN：高性能开源流媒体服务器，支持RTSP、HLS、HTTP直播
@@ -237,14 +262,12 @@
 * [android-ndk-swig-example](https://github.com/sureshjoshi/android-ndk-swig-example) - This project is a full example of using Android Studio (1.0+), Gradle (1.0+), NDK, and SWIG to automatically compile and setup C++ libraries and Java wrappers in Android Studio.
 * [tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
 * [OpenCC](https://github.com/BYVoid/OpenCC) - A project for conversion between Traditional and Simplified Chinese
-* [ACDDExtension](https://github.com/bunnyblue/ACDDExtension) - ACDD Extensions (Sample and Build System)
 * [NativeBitmapFactory](https://github.com/Bilibili/NativeBitmapFactory) - DFM jni
 * [rapidjson](https://github.com/miloyip/rapidjson) - A fast JSON parser/generator for C++ with both SAX/DOM style API
 * [nitroshare-desktop](https://github.com/nitroshare/nitroshare-desktop) - Network file transfer application for Windows, OS X, & Linux
 * [zhtmltopdf](https://github.com/shenzhe/zhtmltopdf) - 网址转换为pdf或图片
 * [iec104_Client](https://github.com/alex-goro/iec104_Client) - 
-* [lucida](https://github.com/claritylab/lucida) - Speech and Vision Based Intelligent Personal Assistant
-* [PacketSender](https://github.com/dannagle/PacketSender) - A network test utility for sending / receiving TCP and UDP packets
+* [PacketSender](https://github.com/dannagle/PacketSender) - Award-winning network utility for sending / receiving TCP and UDP packets
 * [tdesktop](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app
 * [sniffer](https://github.com/voipmonitor/sniffer) - VoIPmonitor sniffer sources
 * [EasyPR](https://github.com/liuruoze/EasyPR) - An open source project for chinese plate recognition. It aims to be Easy, Flexible, and Accurate. Welcome to contribute your expertise !
@@ -293,9 +316,17 @@
 
 ## CSS
 
+* [enable-cors.org](https://github.com/monsur/enable-cors.org) - Advocacy for CORS
+* [django-flat-theme](https://github.com/elky/django-flat-theme) - A flat theme for Django admin interface. Modern, fresh, simple.
+* [awesome-bootstrap-checkbox](https://github.com/flatlogic/awesome-bootstrap-checkbox) - Font Awesome Bootstrap Checkboxes & Radios. Pure css way to make inputs look prettier.
+* [django-wpadmin](https://github.com/barszczmm/django-wpadmin) - WordPress look and feel for Django administration panel
+* [rebirth](https://github.com/greengerong/rebirth) - GreenGerong(破狼) blog with Angular2.
+* [pelican-themes](https://github.com/getpelican/pelican-themes) - Themes for pelican
+* [animate.css](https://github.com/daneden/animate.css) - A cross-browser library of CSS animations. As easy to use as an easy thing.
+* [Spirit](https://github.com/AlloyTeam/Spirit) - 腾讯移动Web整体解决方案
+* [roulette](https://github.com/ChanMo/roulette) - 移动端转盘抽奖
 * [top-topic-Zhihu](https://github.com/Huangtuzhi/top-topic-Zhihu) - :seedling:  Display top 10 topics on Zhihu everday.
 * [micmiu-web-sh](https://github.com/micmiu/micmiu-web-sh) - Michael designed for J2EE development framework (Hibernate、SprimgMVC、Shiro)
-* [weui](https://github.com/weui/weui) - A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications.
 * [bestpractice](https://github.com/bbossgroups/bestpractice) - this project is a set of best practice demos for bboss modules.You can find many simple examples for bboss mvc,bboss ioc,bboss persistent,bboss taglib,bboss session,bboss event,bboss quartz,bboss hessian,bboss rpc ,bboss serializable,bboss i18n,bboss cxf webservice and so on,
 * [amazeui](https://github.com/amazeui/amazeui) - Amaze UI, a mobile-first and modular front-end framework.
 * [gradledoc](https://github.com/pkaq/gradledoc) - gradle 中文文档
@@ -307,7 +338,6 @@
 * [loaders.css](https://github.com/ConnorAtherton/loaders.css) - Delightful, performance-focused pure css loading animations.
 * [android_vendor_cm](https://github.com/CyanogenMod/android_vendor_cm) - 
 * [material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google
-* [bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 * [popcorn-app](https://github.com/popcorn-time/popcorn-app) - An experiment using the peerflix module of nodejs and connecting a bunch of APIs.
 * [emojify.js](https://github.com/Ranks/emojify.js) - A Javascript module to convert Emoji keywords to images
 * [the-swift-programming-language-in-chinese](https://github.com/numbbbbb/the-swift-programming-language-in-chinese) - 中文版 Apple 官方 Swift 教程《The Swift Programming Language》
@@ -317,6 +347,7 @@
 
 ## CoffeeScript
 
+* [deploy-robot](https://github.com/SegmentFault/deploy-robot) - GitHub 自动部署机器人
 * [codecombat](https://github.com/codecombat/codecombat) - Game for learning how to code.
 
 ## D
@@ -345,9 +376,10 @@
 
 ## Go
 
+* [srs](https://github.com/ossrs/srs) - SRS is industrial-strength live streaming cluster, for the best conceptual integrity and the simplest implementation.
 * [picel](https://github.com/henvic/picel) - picel is a light-weight, blazing fast REST-ful micro service for image processing with a lean API
 * [freegeoip](https://github.com/fiorix/freegeoip) - IP geolocation web server
-* [lantern](https://github.com/getlantern/lantern) - :zap: Open Internet for everyone. Lantern is a free application that delivers fast, reliable and secure access to the open Internet for users in censored regions. It uses a variety of techniques to stay unblocked, including domain fronting, p2p, and pluggable transports.
+* [lantern](https://github.com/getlantern/lantern) - :izakaya_lantern: Open Internet for everyone. Lantern is a free application that delivers fast, reliable and secure access to the open Internet for users in censored regions. It uses a variety of techniques to stay unblocked, including domain fronting, p2p, and pluggable transports.
 * [codis](https://github.com/CodisLabs/codis) - Proxy based Redis cluster solution supporting pipeline and scaling dynamically
 * [kingshard](https://github.com/flike/kingshard) - A high-performance MySQL proxy
 * [tidb](https://github.com/pingcap/tidb) - TiDB is a distributed NewSQL database compatible with MySQL protocol
@@ -356,13 +388,13 @@
 * [websocket](https://github.com/gorilla/websocket) - A WebSocket implementation for Go.
 * [gscan](https://github.com/yinqiwen/gscan) - 一个Go语言实现的HTTPS IP可用性扫描工具， 主要作用于Google IP
 * [joe](https://github.com/karan/joe) - :running: A .gitignore magician in your command line
-* [hyperfox](https://github.com/xiam/hyperfox) - HTTP/HTTPs MITM proxy and traffic recorder.
+* [hyperfox](https://github.com/malfunkt/hyperfox) - HTTP/HTTPs MITM proxy and traffic recorder with on-the-fly TLS cert generation.
 * [ssh-chat](https://github.com/shazow/ssh-chat) - Chat over SSH.
 * [ngrok](https://github.com/inconshreveable/ngrok) - Introspected tunnels to localhost
 
 ## Groovy
 
-* [soter](https://github.com/dlabs/soter) - Gradle plugin that adds support for Findbugs, Checkstyle and PMD to android projects.
+* [gradle-bintray-plugin](https://github.com/bintray/gradle-bintray-plugin) - 
 * [gradle-advanced-build-version](https://github.com/moallemi/gradle-advanced-build-version) - A plugin to generate the Android version code and version name automatically
 * [gradle-tomcat-plugin](https://github.com/bmuschko/gradle-tomcat-plugin) - Gradle plugin supporting deployment of your web application to an embedded Tomcat web container
 * [rundeck](https://github.com/rundeck/rundeck) - Job scheduler and runbook automation. Enable self-service access to existing scripts and tools.
@@ -372,7 +404,18 @@
 
 ## HTML
 
-* [md2pdf](https://github.com/vi5i0n/md2pdf) - Markdown to PDF Based Tornado Web
+* [epub.js](https://github.com/futurepress/epub.js) - Enhanced eBooks in the browser.
+* [ponycheckup](https://github.com/erikr/ponycheckup) - 
+* [django-admin-bootstrap](https://github.com/django-admin-bootstrap/django-admin-bootstrap) - Responsive Theme for Django Admin (Django 1.7+)
+* [django-admin-bootstrap-feincms](https://github.com/django-admin-bootstrap/django-admin-bootstrap-feincms) - extension for https://github.com/django-admin-bootstrap/django-admin-bootstrap
+* [django-suit](https://github.com/darklow/django-suit) - Modern theme for Django admin interface
+* [flyboard](https://github.com/yuantiku/flyboard) - A simple, flexible, friendly data visualization system.
+* [material2-app](https://github.com/jelbourn/material2-app) - Simple app that consumes Angular Material 2 components
+* [pelican-docs-zh-cn](https://github.com/bravelee/pelican-docs-zh-cn) - Chinese version 4 Pelican-Document @2013 by Bravelee
+* [pelican](https://github.com/getpelican/pelican) - Static site generator that supports Markdown and reST syntax. Powered by Python.
+* [chisha](https://github.com/ChanMo/chisha) - 轻应用：吃啥？
+* [lottery](https://github.com/ChanMo/lottery) - 大屏幕抽奖
+* [md2pdf](https://github.com/linsir/md2pdf) - Markdown to PDF Based Tornado Web
 * [captcha](https://github.com/apicloudcom/captcha) - 图片验证码
 * [QQFilm-Source](https://github.com/apicloudcom/QQFilm-Source) - 由社区开发者提供的模仿《QQ电影票》开源项目，项目亮点：欢迎引导页、城市选择、展示切换…
 * [163music-Source](https://github.com/apicloudcom/163music-Source) - 由社区开发者提供的模仿《网易云音乐》开源项目，项目亮点：框架设计与实现…
@@ -381,6 +424,8 @@
 * [Dianping-Source](https://github.com/apicloudcom/Dianping-Source) - 由社区开发者提供的模仿《大众点评》开源项目，项目亮点：scanner 、speechRecognizer 模块使用、可使用浏览器浏览布局…
 * [Eleme-Source](https://github.com/apicloudcom/Eleme-Source) - 由社区开发者提供的模仿《饿了么》开源项目，项目亮点：baiduLocation 使用、flex 布局…
 * [fullstackpython.com](https://github.com/mattmakai/fullstackpython.com) - Full Stack Python source with Pelican, Bootstrap and Markdown.
+* [Framework7](https://github.com/nolimits4web/Framework7) - Full featured HTML framework for building iOS & Android apps
+* [weui](https://github.com/weui/weui) - A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications.
 * [KJFrame.github.io](https://github.com/KJFrame/KJFrame.github.io) - 
 * [spring-framework-reference](https://github.com/abel533/spring-framework-reference) - Spring4框架参考文档 - 中文版
 * [AdminLTE](https://github.com/almasaeed2010/AdminLTE) - AdminLTE - Free Premium Admin control Panel Theme That Is Based On Bootstrap 3.x
@@ -409,6 +454,96 @@
 
 ## Java
 
+* [SimpleBluetoothLibrary](https://github.com/DeveloperPaul123/SimpleBluetoothLibrary) - Android library for simplifying bluetooth usage.
+* [BluetoothGlass](https://github.com/vicmns/BluetoothGlass) - Bluetooth Client and Server for Image sharing between Google Glass and Android Devices.
+* [AndResGuard](https://github.com/shwenzhang/AndResGuard) - proguard resource for Android  by wechat team
+* [kstyle](https://github.com/keeganlee/kstyle) - KStyle是一个Android的样式开发的学习项目。
+* [android-BluetoothLeGatt](https://github.com/googlesamples/android-BluetoothLeGatt) - 
+* [android-BluetoothChat](https://github.com/googlesamples/android-BluetoothChat) - 
+* [PullRecycler](https://github.com/Stay/PullRecycler) - recyclerview
+* [robovm](https://github.com/robovm/robovm) - For more info see
+* [RetrofitTutorial](https://github.com/stay4it/RetrofitTutorial) - 
+* [android_design_patterns_analysis](https://github.com/simple-android-framework/android_design_patterns_analysis) - Android源码设计模式分析项目
+* [BottomSheets](https://github.com/android-cjj/BottomSheets) - Teach you how to use Design Support Library: Bottom Sheets
+* [chromeview](https://github.com/pwnall/chromeview) - Android WebView implementation that uses the latest Chromium code
+* [ScanBook](https://github.com/JayFang1993/ScanBook) - scan book's ISBN to get the information of this book
+* [Bluetooth-LE-Library---Android](https://github.com/alt236/Bluetooth-LE-Library---Android) - This library allows for easy access to a Bluetooth LE device's AdRecord and RSSI value. It offers additional functionality for iBeacons.
+* [Colorful](https://github.com/hehonghui/Colorful) - 基于Theme的Android动态换肤库，无需重启Activity、无需自定义View，方便的实现日间、夜间模式。
+* [WoChat](https://github.com/WuXiaolong/WoChat) - 即时通讯练手（基于xmpp、leancloud、环信）
+* [JJSearchViewAnim](https://github.com/android-cjj/JJSearchViewAnim) - A cool search view animation library
+* [Android-MaterialRefreshLayout](https://github.com/android-cjj/Android-MaterialRefreshLayout) - This is a drop-down control, it is more beautiful and powerful than SwipeRefreshLayout
+* [SnailBar](https://github.com/android-cjj/SnailBar) - A lovely snail,You can use it as a seekbar or progressbar.
+* [BeautifulRefreshLayout](https://github.com/android-cjj/BeautifulRefreshLayout) - A bueautiful RefreshLayout
+* [Gradle4Android](https://github.com/WuXiaolong/Gradle4Android) - Gradle for Android 演示的sample
+* [AndroidSamples](https://github.com/WuXiaolong/AndroidSamples) - 整理我开发中遇到的问题及我的一些总结。
+* [leanchat-android](https://github.com/leancloud/leanchat-android) - 用 LeanCloud 实时通信组件做的应用 LeanChat
+* [WeWin](https://github.com/WuXiaolong/WeWin) - An app for Android studio beta
+* [PullLoadMoreRecyclerView](https://github.com/WuXiaolong/PullLoadMoreRecyclerView) - 实现RecyclerView下拉刷新和上拉加载更多以及RecyclerView线性、网格、瀑布流效果演示
+* [AndroidMVPSample](https://github.com/WuXiaolong/AndroidMVPSample) - Android MVP+Retrofit+RxJava 实例
+* [OpenWifiStatistics](https://github.com/uberspot/OpenWifiStatistics) - OpenWifiStatistics is an Android application used to scan wifi networks, gather statistics about them (including location) and upload the data to a server for statistical analysis.
+* [wifiAnalyzer](https://github.com/luizmramos/wifiAnalyzer) - Android's app that analyzes wifi signals.
+* [WiFiAnalyzer](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer) - Android application to analyze WiFi signals.
+* [QrWiFiSign](https://github.com/mask-hao/QrWiFiSign) - wifi二维码签到
+* [Lokalisierung-mit-Wearables](https://github.com/chenkel/Lokalisierung-mit-Wearables) - Lokalisierung mit Hilfe von WiFi-Fingerprinting, BLE Beacons und QR-Code auf Google Glass und Android Wear
+* [EasyShare](https://github.com/Struka9/EasyShare) - An utility app that includes NFC and QR Code Wifi credentials sharing, QR Code File transfers and more.
+* [WiFiKeyShare](https://github.com/bparmentier/WiFiKeyShare) - Share Wi-Fi passwords with QR codes or NFC tags
+* [yuicompressor](https://github.com/yui/yuicompressor) - YUI Compressor
+* [Markdown](https://github.com/zzhoujay/Markdown) - Android平台下的原生Markdown解析器
+* [RichText](https://github.com/zzhoujay/RichText) - Android平台下的富文本解析器，支持Html和Markdown
+* [NextAndroid](https://github.com/yoojia/NextAndroid) - NextAndroid is a library for android, includes: Tools, Widgets, Utils
+* [NextEvents](https://github.com/yoojia/NextEvents) - An event bus library for Java - 小巧但强大的事件总线库，旨在提供更丰富的事件回调控制选项。
+* [NextInputs](https://github.com/yoojia/NextInputs) - A text input validation library for Java - 又是一个小巧但非常强大的数据校验库，内置大量常用校验模式。
+* [WaniKani-for-Android](https://github.com/xiprox/WaniKani-for-Android) - An android client application for the awesome kanji learning website wanikani.com
+* [androidmvp](https://github.com/antoniolg/androidmvp) - MVP Android Example
+* [EffectiveAndroidUI](https://github.com/pedrovgs/EffectiveAndroidUI) - Sample project created to show some of the best Android practices to work in the Android UI Layer. The UI layer of this project has been implemented using MVP or MVVM (without binding engine) to show how this patterns works. This project is used during the talk "EffectiveAndroidUI".
+* [Material-Movies](https://github.com/saulmm/Material-Movies) - An application about movies with material design
+* [AlertDialogPro](https://github.com/fengdai/AlertDialogPro) - [Deprecated] This project can make it easy to theme and custom Android's dialog. Also contains Holo and Material themes for old devices.
+* [Scrollable](https://github.com/noties/Scrollable) - Android scrollable tabs
+* [ViewPagerHeaderScrollDemo](https://github.com/ongakuer/ViewPagerHeaderScrollDemo) - 
+* [android-ui](https://github.com/markushi/android-ui) - Android UI library.
+* [Awesome-Material](https://github.com/android-awesome/Awesome-Material) - Combination of Font Awesome, Material Design, and Bootstrap!
+* [Horizon](https://github.com/Yalantis/Horizon) - Horizon - Simple visual equaliser for Android
+* [StatusBarUtil](https://github.com/laobie/StatusBarUtil) - A util for setting status bar style on Android App.
+* [android-slidingactivity](https://github.com/klinker41/android-slidingactivity) - Android library which allows you to swipe down from an activity to close it.
+* [EasyFonts](https://github.com/vsvankhede/EasyFonts) - Useful library to use custom fonts in your android app
+* [voice-recording-visualizer](https://github.com/tyorikan/voice-recording-visualizer) - Simple Visualizer from mic input for Android.
+* [SimpleFingerGestures_Android_Library](https://github.com/championswimmer/SimpleFingerGestures_Android_Library) - Android Library to implement simple touch/tap/swipe gestures
+* [dspec](https://github.com/lucasr/dspec) - Define and render UI specs on top of your Android UI
+* [AndroidPdfViewer](https://github.com/barteksc/AndroidPdfViewer) - Android view for displaying PDFs rendered with PdfiumAndroid
+* [android-pdfview](https://github.com/JoanZapata/android-pdfview) - [DEPRECATED] A fast PDF reader component for Android development
+* [ShineButton](https://github.com/ChadCSong/ShineButton) - This is a UI lib for Android. Effects like shining.
+* [WoWoViewPager](https://github.com/Nightonke/WoWoViewPager) - Optimized for scrolling app intros or making your CV app. Free and open source.
+* [android-pathview](https://github.com/geftimov/android-pathview) - Android view with both path from constructed path or from svg.
+* [Android-Week-View](https://github.com/alamkanak/Android-Week-View) - Android Week View is an android library to display calendars (week view or day view) within the app. It supports custom styling.
+* [Android-MonthCalendarWidget](https://github.com/romannurik/Android-MonthCalendarWidget) - A simple example of a responsive Month Calendar app widget for Android
+* [FlycoDialog_Master](https://github.com/H07000223/FlycoDialog_Master) - An Android Dialog Lib simplify customization.
+* [ArcProgressStackView](https://github.com/GIGAMOLE/ArcProgressStackView) - Present your progress bars in arc mode with information and total control.
+* [AVLoadingIndicatorView](https://github.com/81813780/AVLoadingIndicatorView) - Nice loading animations for Android
+* [Pixelate](https://github.com/DanielMartinus/Pixelate) - Transform images into pixel versions of itself in Android
+* [AndroidScrollingImageView](https://github.com/Q42/AndroidScrollingImageView) - An Android view for displaying repeated continuous side scrolling images. This can be used to create a parallax animation effect.
+* [SCViewPager](https://github.com/sacot41/SCViewPager) - 
+* [NextInputs-Android](https://github.com/yoojia/NextInputs-Android) - NextInputs bindings for Android - NextInputs的Android扩展，增加Android组件支持
+* [FireEye](https://github.com/yoojia/FireEye) - [DEPRECATED] 项目已升级为NextInputs，功能更强大。
+* [NextVersions](https://github.com/yoojia/NextVersions) - An Android APP upgrade library - Android 应用更新/升级库，支持多种更新方式
+* [NextQRCode](https://github.com/yoojia/NextQRCode) - 基于ZXing Android实现的QRCode扫描支持库。包括`生成二维码图片`和`相机扫描二维码图片即时解码`两部分功能。
+* [MaterialTextField](https://github.com/florent37/MaterialTextField) - A different beautiful Floating Edit Text
+* [MaterialEditText](https://github.com/rengwuxian/MaterialEditText) - EditText in Material Design
+* [Toasteroid](https://github.com/marcohc/Toasteroid) - Android toast library with steroids
+* [TastyToast](https://github.com/yadav-rahul/TastyToast) - :bread: Make your native android Toasts Tasty
+* [auto](https://github.com/google/auto) - A collection of source code generators for Java.
+* [javapoet](https://github.com/square/javapoet) - A Java API for generating .java source files.
+* [TranslationPlugin](https://github.com/YiiGuxing/TranslationPlugin) - IntelliJ IDEA/Android Studio 翻译插件，支持中英互译、单词朗读
+* [SimpleRtmp](https://github.com/faucamp/SimpleRtmp) - SimpleRtmp is a simple Java library for implementing RTMP clients, with no external dependencies or NIO
+* [zxing-android-embedded](https://github.com/journeyapps/zxing-android-embedded) - Port of the ZXing Android application as an Android library project, for embedding in an Android application.
+* [BGAQRCode-Android](https://github.com/bingoogolapple/BGAQRCode-Android) - 扫描二维码、扫描条形码、相册获取图片后识别、生成带 Logo 二维码、支持微博微信 QQ 二维码扫描样式
+* [Mass](https://github.com/Massnory/Mass) - Open Source of SegmentFault
+* [Glass](https://github.com/Veaer/Glass) - 一个更改状态栏和组件背景色的库
+* [barcodescanner](https://github.com/dm77/barcodescanner) - Barcode Scanner Libraries for Android
+* [OkapiBarcode](https://github.com/woo-j/OkapiBarcode) - Open-source barcode encoding program written in Java
+* [SwipeBack](https://github.com/sockeqwe/SwipeBack) - SwipeBack for Android Activities to do pretty the same as the android "back-button" will do, but in a really intuitive way by using a swipe gesture
+* [JJSwipeBack](https://github.com/android-cjj/JJSwipeBack) - activity finish like 简书，
+* [fastdfs-client-java](https://github.com/happyfish100/fastdfs-client-java) - FastDFS java client SDK
+* [LFS](https://github.com/ikCourage/LFS) - File System
 * [InstaMaterial](https://github.com/frogermcs/InstaMaterial) - Implementation of Instagram with Material Design (originally based on Emmanuel Pacamalan's concept)
 * [JazzyViewPager](https://github.com/jfeinstein10/JazzyViewPager) - An easy to use ViewPager that adds an awesome set of custom swiping animations. Just change your ViewPagers to JazzyViewPagers, two more steps, and you're good to go!
 * [FlyRefresh](https://github.com/race604/FlyRefresh) - The implementation of https://dribbble.com/shots/2067564-Replace
@@ -417,7 +552,7 @@
 * [okhttputils](https://github.com/hongyangAndroid/okhttputils) - okhttp的辅助类
 * [GithubAndroidSdk](https://github.com/gitskarios/GithubAndroidSdk) - [DEPRECATED] Android SDK for Github API
 * [android-player](https://github.com/geftimov/android-player) - Android animation when entering new screen.
-* [requests](https://github.com/caoqianli/requests) - Easy to use and flexible http lib for java
+* [requests](https://github.com/clearthesky/requests) - Easy to use and flexible http lib for java
 * [netty-restful-server](https://github.com/zhoumengkang/netty-restful-server) - A light restful server built on netty. If you are preparing for leaning java or netty, it's a nice gift for you.
 * [xLog](https://github.com/elvishew/xLog) - Convenient, flexible and tiny Log library for Android and java, can concurrently print the log to multiple target like logcat, System.out and file, or even remote server(or anywhere) if you like.
 * [packer-ng-plugin](https://github.com/mcxiaoke/packer-ng-plugin) - 下一代Android打包工具，100个渠道包只需要10秒钟
@@ -433,7 +568,7 @@
 * [AutoLoadCache](https://github.com/qiujiayu/AutoLoadCache) - AutoLoadCache 是基于AOP+Annotation等技术实现的高效的缓存管理解决方案，实现缓存与业务逻辑的解耦，并增加异步刷新及“拿来主义机制”，以适应高并发环境下的使用。
 * [GitLabAndroid](https://github.com/ekx/GitLabAndroid) - Unofficial GitLab client for Android
 * [superword](https://github.com/ysc/superword) - Superword is a Java open source project dedicated in the study of English words analysis and auxiliary reading.
-* [Gaffer](https://github.com/GovernmentCommunicationsHeadquarters/Gaffer) - A large-scale graph database
+* [Gaffer](https://github.com/gchq/Gaffer) - A large-scale graph database
 * [anthelion](https://github.com/yahoo/anthelion) - Anthelion is a plugin for Apache Nutch to crawl semantic annotations within HTML pages
 * [google-totp-java](https://github.com/linux-china/google-totp-java) - Google TOTP Java
 * [androidtoken](https://github.com/markmcavoy/androidtoken) - TOTP and HOTP Token for Andriod Devices
@@ -453,7 +588,7 @@
 * [Rainville](https://github.com/feelinglucky/Rainville) - Rain Noise for Android
 * [Vitamio](https://github.com/CharonChui/Vitamio) - This is an unofficial mirror (with some minor bugfix, see Changelog for details.) for android volley library, the source code will synchronize periodically with the official volley repository.
 * [CyberLink4Android](https://github.com/CharonChui/CyberLink4Android) - CyberLink for Android is a development package for UPnP™ developers on Android development. CyberLink controls these protocols automatically, and supports to create your devices and control points quickly.The file on www.cybergarage.org for Android can only realize the find and browse function, so I combine the Cyberlink4Java and the jar for Android make this Cyberlink for Android. http://www.cybergarage.org/twiki/bin/view/Main/CyberLinkForJava
-* [aliyun-openapi-java-sdk](https://github.com/aliyun/aliyun-openapi-java-sdk) - 
+* [aliyun-openapi-java-sdk](https://github.com/aliyun/aliyun-openapi-java-sdk) - Alibaba Cloud SDK for Java.
 * [Coding-Android](https://github.com/Coding/Coding-Android) - Coding Android 客户端源代码
 * [GoogleAuth](https://github.com/wstrange/GoogleAuth) - Google Authenticator Server side code
 * [anylog](https://github.com/jobop/anylog) - a tool which can let us log on the running application without restart.
@@ -486,7 +621,6 @@
 * [styhadoop](https://github.com/lastsweetop/styhadoop) - 
 * [nutch](https://github.com/apache/nutch) - Mirror of Apache Nutch
 * [solo](https://github.com/b3log/solo) - :guitar: A blogging system written in Java, feel free to create your or your team own blog. 一个用 Java 实现的博客系统，为你或你的团队创建个博客吧。
-* [react-native](https://github.com/facebook/react-native) - A framework for building native apps with React.
 * [DroidPlugin](https://github.com/DroidPluginTeam/DroidPlugin) - A plugin framework on android,Run any third-party apk without installation, modification or repackage
 * [DragGridView](https://github.com/xiaanming/DragGridView) - Android library implement drag GridView item to change with animation
 * [Swordfish](https://github.com/saymagic/Swordfish) - Set up Wechat Pub with Docker.
@@ -530,7 +664,7 @@
 * [android-open-project-demo](https://github.com/aosp-exchange-group/android-open-project-demo) - Demo of android open source project, 微信公众号:codekk, 网站:
 * [HoloGraphLibrary](https://github.com/Androguide/HoloGraphLibrary) - Fork of the HoloGraphLibrary by Daniel Nadeau with additionnal features
 * [Android-TextView-LinkBuilder](https://github.com/klinker24/Android-TextView-LinkBuilder) - Insanely easy way to define clickable links within a TextView.
-* [AppIntro](https://github.com/PaoloRotolo/AppIntro) - Make a cool intro for your Android app.
+* [AppIntro](https://github.com/paolorotolo/AppIntro) - Make a cool intro for your Android app.
 * [GuillotineMenu-Android](https://github.com/Yalantis/GuillotineMenu-Android) - Neat library, that provides a simple way to implement guillotine-styled animation
 * [PracticeDemo](https://github.com/AlanCheen/PracticeDemo) - @DEPRECATED 个人练习项目,记录成长之路
 * [buck](https://github.com/facebook/buck) - A fast build system that encourages the creation of small, reusable modules over a variety of platforms and languages.
@@ -563,7 +697,7 @@
 * [Mybatis-Spring](https://github.com/abel533/Mybatis-Spring) - 这是一个集成了Mybatis分页插件和通用Mapper的示例项目
 * [Mapper](https://github.com/abel533/Mapper) - Mybatis Common Mapper - Easy to use
 * [leakcanary-demo](https://github.com/liaohuqiu/leakcanary-demo) - The demo for leakcanary:  https://github.com/square/leakcanary
-* [v2ex-android](https://github.com/greatyao/v2ex-android) - 掌上V2EX
+* [v2ex-android](https://github.com/greatyao/v2ex-android) - 爱V2EX（原掌上V2EX）
 * [crate](https://github.com/crate/crate) - Crate.IO: The fast, scalable, easy to use SQL database with native full text search
 * [mysql_perf_analyzer](https://github.com/yahoo/mysql_perf_analyzer) - MySQL Performance Analyzer
 * [UltimateRecyclerView](https://github.com/cymcsg/UltimateRecyclerView) - A RecyclerView(advanced and flexible version of ListView in Android) with refreshing,loading more,animation and many other features.
@@ -589,7 +723,6 @@
 * [android-empty-layout](https://github.com/alamkanak/android-empty-layout) - A library for showing different types of layouts when a list view is empty
 * [BackgroundViewPager](https://github.com/MoshDev/BackgroundViewPager) - 
 * [TimelyTextView](https://github.com/adnan-SM/TimelyTextView) - Animated TextView like Timely app
-* [SwipeRefreshLayoutDemo](https://github.com/stormzhang/SwipeRefreshLayoutDemo) - SwipeRefreshLayout demo (Google官方下拉刷新组件)
 * [DobList](https://github.com/bilalsammour/DobList) - DobLis is an Open Source Android library that provides to ListView adding ProgressBar (or any view) to the footer of ListView to be shown in loading more, and callback that is called when reaching last item in ListView.
 * [ViewPagerTransforms](https://github.com/ToxicBakery/ViewPagerTransforms) - Library containing common animations needed for transforming ViewPager scrolling for Android v13+.
 * [PSGradientButtons](https://github.com/sapandiwakar/PSGradientButtons) - A collection of buttons for use in Android applications.
@@ -639,8 +772,8 @@
 * [android-parcelable-intellij-plugin](https://github.com/mcharmas/android-parcelable-intellij-plugin) - IntelliJ Plugin for Android Parcelable boilerplate code generation.
 * [AndroidDrawableFactory](https://github.com/tizionario/AndroidDrawableFactory) - A Java Application to create appropriate Drawable resources for your Android application
 * [card.io-Android-SDK](https://github.com/card-io/card.io-Android-SDK) - card.io provides fast, easy credit card scanning in mobile apps
-* [ZXingProject](https://github.com/SkillCollege/ZXingProject) - 精简ZXing项目后只保留扫描功能的代码，去除了ViewfinderView,使用XML布局
-* [ZBarScanProj](https://github.com/SkillCollege/ZBarScanProj) - ZBar扫描二维码项目示例程序
+* [ZXingProject](https://github.com/chentao0707/ZXingProject) - 精简ZXing项目后只保留扫描功能的代码，去除了ViewfinderView,使用XML布局
+* [ZBarScanProj](https://github.com/chentao0707/ZBarScanProj) - ZBar扫描二维码项目示例程序
 * [AcDisplay](https://github.com/AChep/AcDisplay) - AcDisplay is a new way of handling notifications in Android.
 * [parceler](https://github.com/johncarl81/parceler) - :package: Android Parcelables made easy through code generation.
 * [Magnet](https://github.com/premnirmal/Magnet) - A library that makes it very simple to create a window icon, similar to Facebooks chat icon.
@@ -666,7 +799,6 @@
 * [bazel](https://github.com/bazelbuild/bazel) - Correct, reproducible, and fast builds for everyone.
 * [AndroidBucket](https://github.com/wangjiegulu/AndroidBucket) - Android开发常用整理
 * [Android-CircleMenu](https://github.com/hongyangAndroid/Android-CircleMenu) - 自定义ViewGroup实现的圆形旋转菜单，支持跟随手指旋转以及快速旋转。
-* [CustomLoading](https://github.com/stormzhang/CustomLoading) - Custom loading for android
 * [PinnedHeaderListView](https://github.com/JimiSmith/PinnedHeaderListView) - A ListView with pinned section headers for Android
 * [ActionsContentView](https://github.com/StevenRudenko/ActionsContentView) - ActionsContentView is an standalone library implements actions/content swiping view (AKA Side Navigation UI Pattern, AKA Facebook side menu).  The library doesn't use any specific code introduced in new Android SDK versions. This allows develop an application with an action/content swiping view for every version of Android from 2.2 and up.
 * [android-gpuimage](https://github.com/CyberAgent/android-gpuimage) - Android filters based on OpenGL (idea from GPUImage for iOS)
@@ -687,7 +819,7 @@
 * [LetterImageView](https://github.com/makovkastar/LetterImageView) - A simple Android ImageView implementation which draws a letter on a randomly colored background.
 * [ParallaxListView](https://github.com/Gnod/ParallaxListView) - A  Android ListView Demo with a parallax effect header like Path.
 * [JamsMusicPlayer](https://github.com/psaravan/JamsMusicPlayer) - A free, powerful and elegant music player for Android.
-* [FloatingActionButton](https://github.com/makovkastar/FloatingActionButton) - Android floating action button
+* [FloatingActionButton](https://github.com/makovkastar/FloatingActionButton) - [DEPRECATED] Android floating action button
 * [android-shape-imageview](https://github.com/siyamed/android-shape-imageview) - Custom shaped android imageview components
 * [CalendarListview](https://github.com/traex/CalendarListview) - Implementation of a calendar in a ListView. One month by row
 * [ZhihuDailyPurify](https://github.com/izzyleung/ZhihuDailyPurify) - Purified version of Zhihu Daily - 更纯净的知乎日报
@@ -713,13 +845,14 @@
 * [ADP](https://github.com/Diolor/ADP) - A fullstack framework for storing, distributing and installing versionized apk files based on each CI git commit.
 * [dex-method-counts](https://github.com/futuresimple/dex-method-counts) - Tool to output method counts in Android APK grouped by package.
 * [BarcodeScanner](https://github.com/ThinWonton/BarcodeScanner) - Android手机客户端关于二维码扫描的源码，使用了zxing 3.1.1代码并对其进行了精简，支持低版本的sdk，实现了二维码和一维码的扫描、从图片解析一维码和二维码，闪光灯、调焦。。。详情见：http://www.eoeandroid.com/thread-494931-1-1.html
+* [lucida](https://github.com/claritylab/lucida) - Speech and Vision Based Intelligent Personal Assistant
 * [java-weixinlib](https://github.com/0x0001/java-weixinlib) - 微信公众平台接入
 * [jpush-api-java-client](https://github.com/jpush/jpush-api-java-client) - JiGuang's officially supported Java client library for accessing JPush APIs.   极光官方支持的 Java 版本服务器端 SDK。
 * [libgdx](https://github.com/libgdx/libgdx) - Desktop/Android/HTML5/iOS Java game development framework
-* [jenkins](https://github.com/jenkinsci/jenkins) - Jenkins Continuous Integration Server
+* [jenkins](https://github.com/jenkinsci/jenkins) - Jenkins automation server
 * [HTTPRequest](https://github.com/Konloch/HTTPRequest) - An easy to use pure Java wrapper to read from a URL. Cookie, proxy, useragent, post data, and referrer are easily configurable.
 * [CookieVideoView](https://github.com/bangtoven/CookieVideoView) - Extension to Android VideoView. Adding session cookie header to request.
-* [Faceless](https://github.com/delight-im/Faceless) - Faceless is where you can talk freely
+* [Faceless](https://github.com/delight-im/Faceless) - [UNMAINTAINED] Faceless is where you can talk freely
 * [fqrouter](https://github.com/fqrouter/fqrouter) - anti-GFW router
 * [spring-security-oauth](https://github.com/spring-projects/spring-security-oauth) - Support for adding OAuth1(a) and OAuth2 features (consumer and provider) for Spring web applications.
 * [uncode-dal-all](https://github.com/uncodecn/uncode-dal-all) - Uncode-DAL 是 Java 通用数据访问组件，基于mybatis、spring jdbc、hibernate等ORM框架开发，同时支持基于多数据源的读写分离、主备切换、故障转移，自动恢复、负载均衡、缓存等。可以大大提高开发速度。
@@ -741,10 +874,11 @@
 * [android-app](https://github.com/eoecn/android-app) - eoe的Android客户端源码
 * [wildfly](https://github.com/wildfly/wildfly) - WildFly Application Server
 * [memcached-session-manager](https://github.com/magro/memcached-session-manager) - A tomcat session manager that backups sessions in memcached and pulls them from there if asked for unknown sessions
+* [memcached-session-manager](https://github.com/magro/memcached-session-manager) - A tomcat session manager that backups sessions in memcached and pulls them from there if asked for unknown sessions
 * [android_packages_apps_Apollo](https://github.com/CyanogenMod/android_packages_apps_Apollo) - Highly customizable Android music app
 * [Cafe](https://github.com/BaiduQA/Cafe) - A powerful test framework for Android
 * [sip-servlets](https://github.com/RestComm/sip-servlets) - Leading SIP - IMS - WebRTC Application Server
-* [druid](https://github.com/alibaba/druid) - 为监控而生的数据库连接池！
+* [druid](https://github.com/alibaba/druid) - :hotsprings: 为监控而生的数据库连接池！
 * [taokeeper](https://github.com/alibaba/taokeeper) - ZooKeeper-Monitor, a monitor for zookeeper in java. Download https://github.com/alibaba/taokeeper/downloads
 * [sqlautoreview](https://github.com/taobao/sqlautoreview) - automatic review database dml sql(select,insert,update,delete),build create index script for every SQL statment,and merge all create index script with exist indexes on these tables.
 * [TProfiler](https://github.com/alibaba/TProfiler) - TProfiler是一个可以在生产环境长期使用的性能分析工具
@@ -776,7 +910,7 @@
 * [glide](https://github.com/bumptech/glide) - An image loading and caching library for Android focused on smooth scrolling
 * [osmdroid](https://github.com/osmdroid/osmdroid) - OpenStreetMap-Tools for Android
 * [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) - A powerful Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, dragging and animations.
-* [dubbo](https://github.com/alibaba/dubbo) - Dubbo is a distributed, high performance RPC framework enpowering applications with service import/export capabilities.
+* [dubbo](https://github.com/alibaba/dubbo) - :loudspeaker: Dubbo is a distributed, high performance RPC framework enpowering applications with service import/export capabilities.
 * [dubbox](https://github.com/dangdangdotcom/dubbox) - Dubbox now means Dubbo eXtensions, and it adds features like RESTful remoting, Kyro/FST serialization, etc to the Dubbo service framework.
 * [DiskLruCache](https://github.com/JakeWharton/DiskLruCache) - Java implementation of a Disk-based LRU cache which specifically targets Android compatibility.
 * [BookSearch](https://github.com/linzhaoqin/BookSearch) - An Android app to search books using DouBan API
@@ -861,7 +995,7 @@
 * [android-toolbox](https://github.com/reklis/android-toolbox) - android audio streaming and visualization
 * [AndroidRecording](https://github.com/steelkiwi/AndroidRecording) - Android Recording library offers convenient tools for audio/video recording and playback
 * [xmpp-server](https://github.com/fireandfuel/xmpp-server) - Another tiny xmpp server
-* [jitsi](https://github.com/jitsi/jitsi) - Jitsi is an audio/video and chat communicator that supports protocols such as SIP, XMPP/Jabber, AIM/ICQ, IRC, Yahoo! and many other useful features.
+* [jitsi](https://github.com/jitsi/jitsi) - Jitsi is an audio/video and chat communicator that supports protocols such as SIP, XMPP/Jabber, AIM/ICQ, IRC and many other useful features.
 * [asmack](https://github.com/Flowdalic/asmack) - A build environment for the XMPP client library Smack on Android
 * [android-rae-im](https://github.com/raee/android-rae-im) - 基于xmpp协议采用asmack库的即时通讯库
 * [android-1](https://github.com/zhaozw/android-1) - Jitsi for Android is an Android port of the Jitsi project: The most feature-rich communicator with support for encrypted audio/video, chat and presence over SIP and XMPP
@@ -934,7 +1068,7 @@
 * [Android-Bootstrap](https://github.com/Bearded-Hen/Android-Bootstrap) - Bootstrap style widgets for Android, with Glyph Icons
 * [Calligraphy](https://github.com/chrisjenx/Calligraphy) - Custom fonts in Android the easy way...
 * [android-iconify](https://github.com/JoanZapata/android-iconify) - Android integration of multiple icon providers such as FontAwesome, Entypo, Typicons,...
-* [Shimmer-android](https://github.com/RomainPiel/Shimmer-android) - An Android TextView with a shimmering effect
+* [Shimmer-android](https://github.com/RomainPiel/Shimmer-android) - (DEPRECATED) An Android TextView with a shimmering effect
 * [android-circlebutton](https://github.com/markushi/android-circlebutton) - Circle button widget for Android
 * [TH-ProgressButton](https://github.com/torryharris/TH-ProgressButton) - Circular progress View button inspired by FFCircularProgressView
 * [svg-android](https://github.com/latemic/svg-android) - Support for scalable vector graphics in Android
@@ -968,7 +1102,7 @@
 * [AndroidSlidingUpPanel](https://github.com/umano/AndroidSlidingUpPanel) - This library provides a simple way to add a draggable sliding up panel (popularized by Google Music and Google Maps) to your Android application. Brought to you by Umano.
 * [Android-Pdf-Viewer-Library](https://github.com/jblough/Android-Pdf-Viewer-Library) - Pdf Viewer library for Android
 * [ScrollBgGrid](https://github.com/antkingwei/ScrollBgGrid) - 自定义ViewGroup格子布局，在ScrollView滑动掩盖下面的其它布局
-* [ListViewAnimations](https://github.com/nhaarman/ListViewAnimations) - An Android library which allows developers to easily add animations to ListView items
+* [ListViewAnimations](https://github.com/nhaarman/ListViewAnimations) - [DEPRECATED] An Android library which allows developers to easily add animations to ListView items
 * [BabyScroll](https://github.com/JasonRowe/BabyScroll) - Simple Android app for baby to learn letters and numbers.
 * [circle-scroll](https://github.com/matthayter/circle-scroll) - An implementation of a touch listener for Android OS. Implements circular scroll functionality for one-dimensional value-changing.
 * [OverScrollView](https://github.com/EverythingMe/OverScrollView) - A ScrollView with over scroll capabilities, a complete replacement for android's ScrollView.
@@ -1023,7 +1157,7 @@
 * [SquareGridView](https://github.com/goodev/SquareGridView) - Make GridView item is Square
 * [ExpandTabView](https://github.com/yueyueniao2012/ExpandTabView) - DropDownMenu for android
 * [android-demo](https://github.com/Trinea/android-demo) - Android common lib demo, include ImageCache, HttpCache, DropDownListView, DownloadManager, install apk silent and so on, you can find description
-* [droidparts](https://github.com/yanchenko/droidparts) - DI, ORM, JSON, ...
+* [droidparts](https://github.com/droidparts/droidparts) - DI, ORM, JSON, ...
 * [JsonToJava](https://github.com/jonfhancock/JsonToJava) - I was fed up with writing Java classes to mirror json models.  So I wrote this Java app to automate the process.
 * [AntennaPod](https://github.com/AntennaPod/AntennaPod) - A podcast manager for Android
 * [gnucash-android](https://github.com/codinguser/gnucash-android) - Gnucash for Android mobile companion application.
@@ -1133,7 +1267,7 @@
 * [facebook-android-sdk](https://github.com/facebook/facebook-android-sdk) - Used to integrate Android apps with Facebook Platform.
 * [android-flip](https://github.com/openaphid/android-flip) - A component for flip animation on Android, which is similar to the effect in Flipboard iPhone/Android
 * [android-menudrawer](https://github.com/SimonVT/android-menudrawer) - *DEPRECATED* A slide-out menu implementation, which allows users to navigate between views in your app.
-* [androidannotations](https://github.com/excilys/androidannotations) - Fast Android Development. Easy maintainance.
+* [androidannotations](https://github.com/androidannotations/androidannotations) - Fast Android Development. Easy maintainance.
 * [Anki-Android](https://github.com/nicolas-raoul/Anki-Android) - Anki on Android
 * [GreenDroid](https://github.com/cyrilmottier/GreenDroid) - GreenDroid is a development library for the Android platform. It makes UI developments easier and consistent through your applications.
 * [LazyList](https://github.com/thest1/LazyList) - Lazy load of images in Android
@@ -1209,9 +1343,26 @@
 
 ## JavaScript
 
-* [Pastebin](https://github.com/vi5i0n/Pastebin) - A Paste of Code  Web System With Tornado
+* [leanchat-cloudcode](https://github.com/leancloud/leanchat-cloudcode) - LeanChat Cloud Code
+* [leanchat-webapp](https://github.com/leancloud/leanchat-webapp) - LeanChat Web App
+* [nrm](https://github.com/Pana/nrm) - NPM registry manager, fast switch between different registries: npm, cnpm, nj, taobao
+* [clean-css](https://github.com/jakubpawlowicz/clean-css) - Fast and efficient CSS optimizer for node.js and the Web
+* [materialize](https://github.com/Dogfalo/materialize) - Materialize, a CSS Framework based on Material Design
+* [django-material](https://github.com/viewflow/django-material) - Material Design for django forms and admin
+* [vmaig_blog](https://github.com/billvsme/vmaig_blog) - an opensource blog system based on django 1.8 and bootstrap http://vmaig.com
+* [django-autocomplete](https://github.com/darrylcousins/django-autocomplete) - Autocomplete for django models. Form widgets and admin integration examples.
+* [nodeclub](https://github.com/cnodejs/nodeclub) - :baby_chick:Nodeclub 是使用 Node.js 和 MongoDB 开发的社区系统
+* [bugfreejs](https://github.com/ottomao/bugfreejs) - 佛祖保佑，永无bug
+* [weapp-demo-album](https://github.com/CFETeam/weapp-demo-album) - The album demo of wechat micro program
+* [vsc](https://github.com/i5ting/vsc) - Visual Studio Code Guide[Simple Chinese][简体中文]
+* [Swiper](https://github.com/nolimits4web/Swiper) - Most modern mobile touch slider with hardware accelerated transitions
+* [JMUI](https://github.com/AlloyTeam/JMUI) - 移动Web开发UI组件库
+* [AlloyTimer](https://github.com/AlloyTeam/AlloyTimer) - AlloyTimer定时器 - 番茄工作法的时间管理应用
+* [AlloyStick](https://github.com/AlloyTeam/AlloyStick) - AlloyStick 骨骼动画引擎 - 腾讯 AlloyTeam
+* [grunt-manifest](https://github.com/gunta/grunt-manifest) - Generates HTML5 Cache Manifest files
+* [Pastebin](https://github.com/linsir/Pastebin) - A Paste of Code  Web System With Tornado
 * [ZhiHuDaily-React-Native](https://github.com/race604/ZhiHuDaily-React-Native) - A Zhihu Daily(http://daily.zhihu.com/) App client implemented using React Native (Android and iOS).
-* [MagicMirror](https://github.com/MichMich/MagicMirror) - MagicMirror²
+* [MagicMirror](https://github.com/MichMich/MagicMirror) - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant.
 * [maimai](https://github.com/apicloudcom/maimai) - 脉脉社交APP源码
 * [Sohu-Source](https://github.com/apicloudcom/Sohu-Source) - 由社区开发者提供的模仿《搜狐视频》开源项目，项目亮点：图文排版、9 宫格布局、16宫格布局…
 * [ios-ipa-server](https://github.com/bumaociyuan/ios-ipa-server) - Create a HTTPS Server to install iOS ipa
@@ -1235,14 +1386,14 @@
 * [d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
 * [lib-flexible](https://github.com/amfe/lib-flexible) - 可伸缩布局方案
 * [TrafficRecorder](https://github.com/ottomao/TrafficRecorder) - A tool written in Node.js to save all http(s) request data on disk.
-* [Framework7](https://github.com/nolimits4web/Framework7) - Full Featured HTML Framework For Building iOS & Android Apps
 * [serverless](https://github.com/serverless/serverless) - Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –
-* [mapv](https://github.com/huiyan-fe/mapv) - 地图可视化工具库,canvas,map,visualization
+* [react-native](https://github.com/facebook/react-native) - A framework for building native apps with React.
+* [mapv](https://github.com/huiyan-fe/mapv) - a library of geography visualization-地理信息可视化库
 * [f2etest](https://github.com/alibaba/f2etest) - F2etest是一个面向前端、测试、产品等岗位的多浏览器兼容性测试整体解决方案。
 * [top](https://github.com/alibaba/top) - Taobao Open API Client
 * [goqr](https://github.com/fujohnwang/goqr) - A chrome extension that will help to generate current tab's URL to QR code for sharing.
 * [anyproxy](https://github.com/alibaba/anyproxy) - A fully configurable http/https proxy in NodeJS
-* [peaks.js](https://github.com/bbcrd/peaks.js) - JavaScript UI component for interacting with waveforms.
+* [peaks.js](https://github.com/bbc/peaks.js) - JavaScript UI component for interacting with waveforms.
 * [gradle-multi-project-example](https://github.com/someok/gradle-multi-project-example) - Gradle 多项目管理示例
 * [ueditor](https://github.com/fex-team/ueditor) - rich text 富文本编辑器
 * [muplayer](https://github.com/Baidu-Music-FE/muplayer) - An open source web audio player from Baidu Music, support HTML5 and Flash engine on different platforms(百度音乐播放内核)
@@ -1288,14 +1439,15 @@
 * [moment](https://github.com/moment/moment) - Parse, validate, manipulate, and display dates in javascript.
 * [bootstrap-timepicker](https://github.com/jdewit/bootstrap-timepicker) - A simple timepicker component for Twitter Bootstrap
 * [django-ozgweb](https://github.com/ouzhigang/django-ozgweb) - 简单网站后台，python 3.4 or 2.7 + django 1.7.4
-* [Ghost](https://github.com/TryGhost/Ghost) - Just a blogging platform
+* [Ghost](https://github.com/TryGhost/Ghost) - A simple, powerful publishing platform
 * [Ghost](https://github.com/diancloud/Ghost) - Ghost博客-最好用的独立博客平台
 * [Semantic-UI](https://github.com/Semantic-Org/Semantic-UI) - Semantic is a UI component framework based around useful principles from natural language.
-* [JfinalUIB](https://github.com/dongcb678/JfinalUIB) - Jfinal实现的用户权限管理系统
+* [JFinalUIB](https://github.com/dongcb678/JFinalUIB) - Jfinal实现的用户权限管理系统
 * [angularjs-workshop](https://github.com/shyamseshadri/angularjs-workshop) - Session by session for the AngularJS workshop
 * [angularjs-book](https://github.com/shyamseshadri/angularjs-book) - Examples and Code snippets from the AngularJS O'Reilly book
 * [APDPlat](https://github.com/ysc/APDPlat) - APDPlat是Application Product Development Platform的缩写，即应用级产品开发平台。
 * [mobipick](https://github.com/sustainablepace/mobipick) - Android-style datepicker widget for jQuery Mobile
+* [bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 * [fullcalendar](https://github.com/fullcalendar/fullcalendar) - Full-sized drag & drop event calendar (jQuery plugin)
 * [typeahead.js](https://github.com/twitter/typeahead.js) - typeahead.js is a fast and fully-featured autocomplete library
 * [select2](https://github.com/select2/select2) - Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results.
@@ -1353,6 +1505,10 @@
 
 ## Objective-C
 
+* [leanchat-ios](https://github.com/leancloud/leanchat-ios) - 用 LeanCloud 实时通信组件做的应用 LeanChat
+* [YTKNetwork](https://github.com/yuantiku/YTKNetwork) - YTKNetwork is a high level request util based on AFNetworking.
+* [happytogether](https://github.com/houseoflegend/happytogether) - 
+* [Toast](https://github.com/scalessec/Toast) - An Objective-C category that adds toast notifications to the UIView object class.
 * [osx-usb-serial-detect](https://github.com/bjarnoldus/osx-usb-serial-detect) - Detect support for USB to Serial Devices in OS X
 * [UIChatBox](https://github.com/apicloudcom/UIChatBox) - 聊天盒子模块源码（内含iOS和android）
 * [BabyBluetooth](https://github.com/coolnameismy/BabyBluetooth) - :baby: The easiest way to use Bluetooth (BLE )in ios/os ,even bady can use . 一个非常容易使用的蓝牙库,适用于ios和os
@@ -1430,7 +1586,6 @@
 * [MoStoreButton](https://github.com/MoathOthman/MoStoreButton) - ios 7 Appstore like button, progress UIButton
 * [MJRefresh](https://github.com/CoderMJLee/MJRefresh) - An easy way to use pull-to-refresh.
 * [IQMediaPickerController](https://github.com/hackiftekhar/IQMediaPickerController) - Audio Image Video Picker Controller
-* [GesturePassword](https://github.com/smilingxinyi/GesturePassword) - 
 * [Surfboard](https://github.com/MosheBerman/Surfboard) - Surfboard is a delightful onboarding framework for iOS.
 * [OTCover](https://github.com/yechunxiao19/OTCover) - An view like Medium Personal page for iOS
 * [LNNotificationsUI](https://github.com/LeoNatan/LNNotificationsUI) - A framework for displaying notifications similar to Apple's iOS 8 and iOS 9 notifications.
@@ -1447,7 +1602,6 @@
 * [iOS-Framework](https://github.com/jverkoey/iOS-Framework) - How to create, develop, and distribute iOS Static Frameworks quickly and efficiently
 * [DoubanAlbum](https://github.com/TonnyTao/DoubanAlbum) - Slowslab iOS应用 豆瓣相册 精选集 开源项目，仅供学习参考
 * [EasyIOS](https://github.com/zhuchaowe/EasyIOS) - A new generation of development framework based on Model-View-ViewModel
-* [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) - Streams of values over time
 * [ModelCoder](https://github.com/zhuchaowe/ModelCoder) - ModelCoder can Automatic generate Objective-C code by JSON string.
 * [EasyRSS](https://github.com/zhuchaowe/EasyRSS) - EasyRSS is a rss reader for ios based on easyios
 * [iOS-OnionBrowser](https://github.com/mtigas/iOS-OnionBrowser) - An open-source, privacy-enhancing web browser for iOS, utilizing the Tor anonymity network
@@ -1456,8 +1610,8 @@
 * [XHImageViewer](https://github.com/JackTeam/XHImageViewer) - XHImageViewer is images viewer, zoom image.
 * [Lockbox](https://github.com/granoff/Lockbox) - Objective-C utility class for storing data securely in the key chain.
 * [ringring-ios](https://github.com/ringring-io/ringring-ios) - Ringring.io - iOS client
-* [RealtimeChat](https://github.com/relatedcode/RealtimeChat) - This is a full native iPhone app to create realtime, text based group or private chat with Firebase.
-* [FirebaseChat](https://github.com/relatedcode/FirebaseChat) - This is a full native iPhone app to create realtime, text based group or private chat with Firebase.
+* [RealtimeChat](https://github.com/relatedcode/RealtimeChat) - This is a native iOS Messenger app, making realtime chat conversations and audio calls with full offline support.
+* [Messenger](https://github.com/relatedcode/Messenger) - This is a native iOS Messenger app, making realtime chat conversations and audio calls with full offline support.
 * [JSQSystemSoundPlayer](https://github.com/jessesquires/JSQSystemSoundPlayer) - A fancy Obj-C wrapper for Cocoa System Sound Services
 * [SECoreTextView](https://github.com/kishikawakatsumi/SECoreTextView) - SECoreTextView is multi style text view.
 * [LKBadgeView](https://github.com/lakesoft/LKBadgeView) - Custom badge view
@@ -1507,7 +1661,7 @@
 * [KKGestureLockView](https://github.com/kejinlu/KKGestureLockView) - A Gesture Lock View For iOS
 * [Alcatraz](https://github.com/alcatraz/Alcatraz) - Package manager for Xcode
 * [XEP](https://github.com/Centny/XEP) - The Xcode Extend Plug-in
-* [cocoapods-xcode-plugin](https://github.com/kattrali/cocoapods-xcode-plugin) - Dependency management helper for your CocoaPods, right in Xcode
+* [cocoapods-xcode-plugin](https://github.com/kattrali/cocoapods-xcode-plugin) - [deprecated] Dependency management helper for your CocoaPods, right in Xcode 6 and 7
 * [VVDocumenter-Xcode](https://github.com/onevcat/VVDocumenter-Xcode) - Xcode plug-in which helps you write documentation comment easier, for both Objective-C and Swift.
 * [ColorSense-for-Xcode](https://github.com/omz/ColorSense-for-Xcode) - Plugin for Xcode to make working with colors more visual
 * [BOZPongRefreshControl](https://github.com/boztalay/BOZPongRefreshControl) - A pull-down-to-refresh control for iOS that plays pong, originally created for the MHacks III iOS app
@@ -1541,7 +1695,6 @@
 * [KNPathTableViewController](https://github.com/kentnguyen/KNPathTableViewController) - UITableViewController with customizable overlay panel while scrolling, inspired by Path
 * [GroupedTableViewWithShadows](https://github.com/schluete/GroupedTableViewWithShadows) - CALayer based shadows for UITableViewCells in a grouped UITableView
 * [idev-recipes](https://github.com/boctor/idev-recipes) - Open source code for the idevrecipes.com blog
-* [TDBadgedCell](https://github.com/tmdvs/TDBadgedCell) - TDBadgedCell is a UITableViewCell subclass that adds badges, to table view cells. It's highly customisable, allowing you to alter the badge colours, shape, and positioning.
 * [JTGestureBasedTableViewDemo](https://github.com/jamztang/JTGestureBasedTableViewDemo) - (demo) Recreating the buttonless interaction pattern found in Clear for iPhone app
 * [WEPopover](https://github.com/werner77/WEPopover) - Generic popover implementation for iOS with same API as the UIPopoverController for the iPad, but configurable with custom background and available for iPhone as well.
 * [InAppSettingsKit](https://github.com/futuretap/InAppSettingsKit) - This iOS framework allows settings to be in-app in addition to or instead of being in the Settings app.
@@ -1560,7 +1713,7 @@
 * [SMVerticalSegmentedControl](https://github.com/shkutkov/SMVerticalSegmentedControl) - 
 * [HMSegmentedControl](https://github.com/HeshamMegid/HMSegmentedControl) - A drop-in replacement for UISegmentedControl mimicking the style of the segmented control used in Google Currents and various other Google products.
 * [JZSwipeCell](https://github.com/JLZ/JZSwipeCell) - Inspired by MailboxApp (http://mailboxapp.com). A UITableViewCell subclass that makes it easy to add long, short, left and right swiping of content in your table views. Features 4 swipe zones with customizable icons, colors and sizes.
-* [xctool](https://github.com/facebook/xctool) - A replacement for Apple's xcodebuild that makes it easier to build and test iOS or OSX apps.
+* [xctool](https://github.com/facebook/xctool) - An extension for Apple's xcodebuild that makes it easier to test iOS and macOS apps.
 * [countly-sdk-ios](https://github.com/Countly/countly-sdk-ios) - Countly Mobile Analytics - iOS SDK
 * [FreeStreamer](https://github.com/muhku/FreeStreamer) - A low-memory footprint streaming audio player for iOS and OS X
 * [CUShareCenter](https://github.com/studentdeng/CUShareCenter) - 分享组件
@@ -1580,7 +1733,7 @@
 * [XMLWriter](https://github.com/ahmyi/XMLWriter) - NSDictionary To XML String
 * [hpple](https://github.com/topfunky/hpple) - An XML/HTML parser for Objective-C, inspired by Hpricot.
 * [ElementParser](https://github.com/Objective3/ElementParser) - ElementParser is lightweight Cocoa Framework (usable on the iPhone) to provide easy access to XML and HTML content.
-* [bugsnag-cocoa](https://github.com/bugsnag/bugsnag-cocoa) - Bugsnag notifier for iOS and OSX apps
+* [bugsnag-cocoa](https://github.com/bugsnag/bugsnag-cocoa) - Bugsnag crash reporting for iOS, macOS, and tvOS apps
 * [AppWarp_iOS_SDK_Framework](https://github.com/shephertz/AppWarp_iOS_SDK_Framework) - AppWarp Framework file for iOS
 * [DSBarChart](https://github.com/dhilipsiva/DSBarChart) - A simple Objective-C Bar Chart / Histogram library.
 * [tapkulibrary](https://github.com/devinross/tapkulibrary) - tap + haiku = tapku, a well crafted open source iOS framework
@@ -1597,7 +1750,7 @@
 * [MCSwipeTableViewCell](https://github.com/alikaragoz/MCSwipeTableViewCell) - :point_up_2: Convenient UITableViewCell subclass that implements a swippable content to trigger actions (similar to the Mailbox app).
 * [SJADNShareController](https://github.com/sebj/SJADNShareController) - Share to App.net and add it to your app's share menu
 * [WTStatusBar](https://github.com/pieceofsummer/WTStatusBar) - Simple iOS status bar overlay with text (and optionally Foursquare-like progress bar) display
-* [jsonmodel](https://github.com/jsonmodel/jsonmodel) - Magical Data Modelling Framework for JSON. Create rapidly powerful, atomic and smart data model classes
+* [jsonmodel](https://github.com/jsonmodel/jsonmodel) - Magical Data Modeling Framework for JSON - allows rapid creation of smart data models. You can use it in your iOS, macOS, watchOS and tvOS apps.
 * [REImageSprite](https://github.com/romaonthego/REImageSprite) - [DEPRECATED] CSS-like image sprites for iOS apps.
 * [UIColor-MLPFlatColors](https://github.com/EddyBorja/UIColor-MLPFlatColors) - A category for UIColor that adds flat UI color methods. For iOS.
 * [KBPopupBubble](https://github.com/psholtz/KBPopupBubble) - Twitter-style popup bubbles with dynamic, animated pointer arrows.
@@ -1638,12 +1791,12 @@
 * [RETableViewManager](https://github.com/romaonthego/RETableViewManager) - Powerful data driven content manager for UITableView.
 * [UzysSlideMenu](https://github.com/uzysjung/UzysSlideMenu) - Slide Dropdown Menu
 * [QMBTabs](https://github.com/quemb/QMBTabs) - Tab View Controller just like Safari or mobile Chrome
-* [STPhoneFormatter](https://github.com/SebastienThiebaud/STPhoneFormatter) - A custom formatter to deal with an international phone number inside a UITextField.
+* [STPhoneFormatter](https://github.com/SebastianThiebaud/STPhoneFormatter) - A custom formatter to deal with an international phone number inside a UITextField.
 * [MNCalendarView](https://github.com/min/MNCalendarView) - Highly customizable calendar component for iOS apps
 * [NKColorSwitch](https://github.com/naokosaka/NKColorSwitch) - Customizable flat style Switch control for iOS
 * [AMBubbleTableView](https://github.com/andreamazz/AMBubbleTableView) - AMBubbleTableView
 * [ICETutorial](https://github.com/icepat/ICETutorial) - A nice tutorial like the one introduced in the Path 3.X App
-* [ALAlertBanner](https://github.com/lobianco/ALAlertBanner) - A clean and simple alert banner for iPhone and iPad - https://twitter.com/_antlo
+* [ALAlertBanner](https://github.com/lobianco/ALAlertBanner) - A clean and simple alert banner for iPhone and iPad - https://twitter.com/lobnco
 * [PPiFlatSegmentedControl](https://github.com/pepibumur/PPiFlatSegmentedControl) - Flat Segmented Control for UI flat iOS designs
 * [iOSPullDownMenu](https://github.com/BernardGatt/iOSPullDownMenu) - A pulldown menu designed for all iOS devices, it supports both navigation controllers and views, users can either pull it down or activate by tapping a button.
 * [EKWelcomeView](https://github.com/EvgenyKarkan/EKWelcomeView) - EKWelcomeView is a solution to implement entry/welcome/tutorial/hints view in application.
@@ -1686,7 +1839,7 @@
 * [MFSideMenu](https://github.com/mikefrederick/MFSideMenu) - Facebook-like side menu for iOS
 * [ECSlidingViewController](https://github.com/ECSlidingViewController/ECSlidingViewController) - Customizable sliding view controller container.
 * [PPRevealSideViewController](https://github.com/ipup/PPRevealSideViewController) - A new container controller to easily push views on side like Path or Facebook
-* [ViewDeck](https://github.com/ViewDeck/ViewDeck) - An implementation of the sliding functionality found in the Path 2.0 or Facebook iOS apps.
+* [ViewDeck](https://github.com/ViewDeck/ViewDeck) - An implementation of the sliding menu found in various iOS apps.
 * [ASDepthModal](https://github.com/autresphere/ASDepthModal) - An Objective-C class that adds a sense of depth to your modal popup views.
 * [MosaicUI](https://github.com/betzerra/MosaicUI) - A tiled UI for iOS and iPhone
 * [GC3DFlipTransitionStyleSegue](https://github.com/GlennChiu/GC3DFlipTransitionStyleSegue) - iBooks-style 3D flip transition animation rendered in OpenGL ES 2.0 and wrapped in a UIStoryboardSegue subclass
@@ -1796,7 +1949,7 @@
 * [JSQMessagesViewController](https://github.com/jessesquires/JSQMessagesViewController) - An elegant messages UI library for iOS
 * [JASidePanels](https://github.com/gotosleep/JASidePanels) - Reveal side ViewControllers similar to Facebook/Path's menu
 * [sscatalog](https://github.com/soffes/sscatalog) - Deprecated demo of SSToolkit
-* [sspulltorefresh](https://github.com/soffes/sspulltorefresh) - Simple and highly customizable pull to refresh view
+* [SSPullToRefresh](https://github.com/soffes/SSPullToRefresh) - Simple and highly customizable pull to refresh view
 * [ssmessagesviewcontroller](https://github.com/soffes/ssmessagesviewcontroller) - iOS Messages.app style table view controller
 * [ELTableViewController](https://github.com/yanghua/ELTableViewController) - A Encapsulation to the UITableView  with EGORefreshTableHeaderView and LoadMoreTableFooterView and download image async
 * [NewsReader](https://github.com/cubewang/NewsReader) - iOS News Reader compatible with iPhone and iPad
@@ -1837,6 +1990,18 @@
 
 ## Others
 
+* [android-dev-com](https://github.com/android-cn/android-dev-com) - Some Famous Android Developers Information, 微信公众号:codekk, 网站:
+* [AndroidSdkSourceAnalysis](https://github.com/LittleFriendsGroup/AndroidSdkSourceAnalysis) - android sdk 源码解析——旨在帮助Android开发者更好的学习Android！我们只是一群普通的程序员，但是，我们热爱分享，想热热闹闹的玩点有意义的事！如果你也想陪我们一起愉快的玩耍，欢迎加入我们！Issues认领分析文章！
+* [hosts](https://github.com/racaljk/hosts) - :statue_of_liberty:最新可用的google hosts文件。镜像：
+* [awesome-java](https://github.com/akullpp/awesome-java) - A curated list of awesome Java frameworks, libraries and software.
+* [Awesome-MaterialDesign](https://github.com/lightSky/Awesome-MaterialDesign) - Collection of material design libs and res.
+* [awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui) - A curated list of awesome iOS UI/UX libraries
+* [awesome-android-tools](https://github.com/wasabeef/awesome-android-tools) - A curated list of awesome Android Tools.
+* [awesome-android](https://github.com/JStumpp/awesome-android) - A curated list of awesome Android packages and resources.
+* [AdguardForAndroid](https://github.com/AdguardTeam/AdguardForAndroid) - Open bug tracker for Android version of Adguard.
+* [interview_python](https://github.com/taizilongxu/interview_python) - 关于Python的面试题
+* [svgartisan](https://github.com/janily/svgartisan) - photoshop输出svg图形格式插件
+* [svgartisan](https://github.com/WilliamRen/svgartisan) - photoshop输出svg图形格式插件
 * [rpi-bin](https://github.com/vimagick/rpi-bin) - :strawberry: pre-built binaries for raspberry-pi
 * [awesome-stars](https://github.com/maguowei/awesome-stars) - Awesome List of my own!
 * [WeChat](https://github.com/Thinklion/WeChat) - 
@@ -1846,19 +2011,19 @@
 * [Android-Anim-Playground](https://github.com/gpfduoduo/Android-Anim-Playground) - Latest animation ideas I developed to make apps more attractive
 * [libdlna](https://github.com/pld-linux/libdlna) - DLNA library
 * [tengine-patches](https://github.com/alibaba/tengine-patches) - patches for third party modules with Tengine
+* [soter](https://github.com/dlabs/soter) - Gradle plugin that adds support for Findbugs, Checkstyle and PMD to android projects.
 * [bboss-document](https://github.com/bbossgroups/bboss-document) - this project contain origine documents of bboss modules.but more operation document please visit http://yin-bp.iteye.com/
 * [stormpath-spring-security](https://github.com/stormpath/stormpath-spring-security) - Spring Security plugin for Stormpath
 * [awesome-android-libraries](https://github.com/wasabeef/awesome-android-libraries) - This is an alphabetical list of libraries for Android development, the majority being actively maintained.
 * [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) - A curated list of awesome Android UI/UX libraries
 * [CCMakefile4iOS](https://github.com/webfrogs/CCMakefile4iOS) - makefile for iOS project to compile and package the xcode project automatically.
-* [cdnjs](https://github.com/cdnjs/cdnjs) - Our goal is to operate this CDN in a peer reviewed fashion.
+* [cdnjs](https://github.com/cdnjs/cdnjs) - The best FOSS web front-end resource CDN maintained by @PeterDaveHello @ryankirkman @thomasdavis
 * [ResumeSample](https://github.com/geekcompany/ResumeSample) - Resume template for Chinese programmers . 程序员简历模板系列。包括PHP程序员简历模板、iOS程序员简历模板、Android程序员简历模板、Web前端程序员简历模板、Java程序员简历模板、C/C++程序员简历模板、NodeJS程序员简历模板、架构师简历模板以及通用程序员简历模板
 * [tpw](https://github.com/mojombo/tpw) - 
 * [http-api-design](https://github.com/interagent/http-api-design) - HTTP API design guide extracted from work on the Heroku Platform API
-* [longkai](https://github.com/longkai/longkai) - my writings.
+* [essays](https://github.com/longkai/essays) - Think fast, talk smart, write more.
 * [china-city](https://github.com/SSOOnline/china-city) - 中国城市json数据
 * [android-lifecycle](https://github.com/xxv/android-lifecycle) - A diagram of the Android Activity / Fragment lifecycle
-* [goagent](https://github.com/phuslu/goagent) - 
 * [android-open-project-analysis](https://github.com/aosp-exchange-group/android-open-project-analysis) - Android 源码解析开发版，网站:
 * [android-open-project-analysis](https://github.com/android-cn/android-open-project-analysis) - Analysis implementation of android open source project, 微信公众号:codekk, 网站:
 * [android-dev-cn](https://github.com/android-cn/android-dev-cn) - Some Chinese Android Developers Information, 微信公众号:codekk, 网站:
@@ -1926,10 +2091,71 @@
 
 ## Python
 
+* [Wifi-QR-Code](https://github.com/unapiedra/Wifi-QR-Code) - Configure your smartphone (android) by taking a picture of a QR Code.
+* [gunicorn](https://github.com/benoitc/gunicorn) - gunicorn 'Green Unicorn' is a WSGI HTTP Server for UNIX, fast clients and sleepy applications.
+* [django-simple-captcha](https://github.com/mbi/django-simple-captcha) - Django Simple Captcha is an extremely simple, yet highly customizable Django application to add captcha images to any Django form.
+* [django-users2](https://github.com/mishbahr/django-users2) - Custom user model for django &gt;=1.5 with support for multiple user types.
+* [django-generic-json-views](https://github.com/bbengfort/django-generic-json-views) - Class based generic views that render JSON data.
+* [django-reversion](https://github.com/etianen/django-reversion) - django-reversion is an extension to the Django web framework that provides version control for model instances.
+* [django-haystack](https://github.com/django-haystack/django-haystack) - Modular search for Django
+* [django-vanilla-views](https://github.com/tomchristie/django-vanilla-views) - Beautifully simple class-based views.
+* [django-braces](https://github.com/brack3t/django-braces) - Reusable, generic mixins for Django
+* [django-extra-views](https://github.com/AndrewIngram/django-extra-views) - Django's class-based generic views are awesome, let's have more of them.
+* [django-allauth](https://github.com/pennersr/django-allauth) - Integrated set of Django applications addressing authentication, registration, account management as well as 3rd party (social) account authentication.
+* [django-secure](https://github.com/carljm/django-secure) - This project was merged into Django 1.8, and is now unsupported and unmaintained as a third-party app.
+* [django-model-utils](https://github.com/carljm/django-model-utils) - Django model mixins and utilities.
+* [django-rq](https://github.com/ui/django-rq) - A simple app that provides django integration for RQ (Redis Queue)
+* [django-background-task](https://github.com/lilspikey/django-background-task) - A database-backed work queue for Django
+* [django-autoadmin](https://github.com/rosarior/django-autoadmin) - Automatic admin users for Django projects
+* [django-passwords](https://github.com/dstufft/django-passwords) - 
+* [django-two-factor-auth](https://github.com/Bouke/django-two-factor-auth) - Complete Two-Factor Authentication for Django providing the easiest integration into most Django projects.
+* [python-magic](https://github.com/ahupp/python-magic) - A python wrapper for libmagic
+* [flake8](https://github.com/PyCQA/flake8) - The official GitHub mirror of https://gitlab.com/pycqa/flake8
+* [django-jet](https://github.com/geex-arts/django-jet) - Modern responsive template for the Django admin interface with improved functionality
+* [django-admin-easy](https://github.com/ebertti/django-admin-easy) - Collection of admin fields and decorators to help to create computed or custom fields more friendly and easy way
+* [django-twitter-bootstrap](https://github.com/estebistec/django-twitter-bootstrap) - This package provides a Django app whose static folder contains the sources of Twitter Bootstrap, nothing more and nothing less.
+* [pyformat.info](https://github.com/ulope/pyformat.info) - 
+* [django-bulk-update](https://github.com/aykut/django-bulk-update) - Bulk update using one query over Django ORM
+* [dd-agent](https://github.com/DataDog/dd-agent) - Datadog Agent
+* [DPress](https://github.com/vicalloy/DPress) - A simple blog powered by Django
+* [EWP_OMS](https://github.com/ywzhou123/EWP_OMS) - 自动化运维系统（saltstack+django+bootstrap），QQ群342844540，博客http://ywzhou.blog.51cto.com
+* [python-future](https://github.com/PythonCharmers/python-future) - Easy, clean, reliable Python 2/3 compatibility
+* [django-cas-ng](https://github.com/mingchen/django-cas-ng) - Django CAS (Central Authentication Service) client
+* [django-simple-sso](https://github.com/aldryn/django-simple-sso) - 
+* [django-cas2](https://github.com/KTHse/django-cas2) - CAS 2.0 authentication module for Django
+* [django-cas](https://github.com/kstateome/django-cas) - K-State's maintained version of django-cas
+* [RNCryptor-python](https://github.com/RNCryptor/RNCryptor-python) - Python implementation of RNCryptor
+* [django-localflavor](https://github.com/django/django-localflavor) - Country-specific Django helpers, formerly of contrib fame
+* [django-debug-toolbar](https://github.com/jazzband/django-debug-toolbar) - A configurable set of panels that display various debug information about the current request/response.
+* [pelican-themes](https://github.com/m-allanson/pelican-themes) - A website that displays screenshots of the themes available for Pelican
+* [ngxtop](https://github.com/lebinh/ngxtop) - Real-time metrics for nginx server
+* [aws-cli](https://github.com/aws/aws-cli) - Universal Command Line Interface for Amazon Web Services
+* [QrCodeLoginDemo](https://github.com/zhengxiaoyao0716/QrCodeLoginDemo) - 简单的二维码登录机制模拟
+* [tornado-qrcode-login-example](https://github.com/inuyasha2012/tornado-qrcode-login-example) - 模仿微信、115网盘等手机扫web端二维码让web端登录，基于tornado
+* [python-custom-qrcode](https://github.com/gladson/python-custom-qrcode) - Python class to create custom QRCode with icon and colorization
+* [django_member_grade](https://github.com/ChanMo/django_member_grade) - 基于django_wechat_member的会员等级模块
+* [django_member_address](https://github.com/ChanMo/django_member_address) - 一个基于django_wechat_member的地址模块
+* [django-wechat-wallet](https://github.com/ChanMo/django-wechat-wallet) - 基于django和wechat的会员钱包模块
+* [django-wechat-feedback](https://github.com/ChanMo/django-wechat-feedback) - 基于django和wechat的留言反馈模块
+* [django_banner](https://github.com/ChanMo/django_banner) - 基于django的轮播图模块
+* [django-wechat-qrcode](https://github.com/ChanMo/django-wechat-qrcode) - 基于django和wechat的会员推广二维码模块
+* [django-wechat-member](https://github.com/ChanMo/django-wechat-member) - 基于django和wechat的会员模块
+* [django_wechat](https://github.com/ChanMo/django_wechat) - 基于django的微信基础模块
+* [QRCode-Container](https://github.com/wenoptics/QRCode-Container) - 大创;物流自取箱;code on RaspberryPi
+* [qrcode](https://github.com/Wysaat/qrcode) - Quick response code(qr code) encoder / decoder.
+* [python-qrcode](https://github.com/lincolnloop/python-qrcode) - Python QR Code image generator
+* [huBarcode](https://github.com/hudora/huBarcode) - huBarcode is a Python Library to generate 1D and 2D Barcodes
+* [python-zxing](https://github.com/oostendo/python-zxing) - python wrapper for the ZXing barcode library
+* [fdfs_client-py](https://github.com/hay86/fdfs_client-py) - fastdfs python client compatible with ver 4.0.6
+* [django-hdfs](https://github.com/thanos/django-hdfs) - HFDS interface utilities of Django including file storage.
+* [django-unique-upload](https://github.com/agconti/django-unique-upload) - A django utility that creates unique file names for uploaded files via uuids.
+* [django-queued-storage](https://github.com/jazzband/django-queued-storage) - Provides a proxy for Django storage backends that allows you to upload files locally and eventually serve them remotely
+* [django-resto](https://github.com/aaugustin/django-resto) - REplicated STOrage for Django, file backends that mirror media files to several servers over HTTP [UNMAINTAINED]
+* [django_dust](https://github.com/isagalaev/django_dust) - Distributed Upload STorage for Django. A file backend that mirrors all incoming media files to several servers
 * [ceryx](https://github.com/sourcelair/ceryx) - Dynamic reverse proxy based on NGINX OpenResty with an API
 * [thumbor](https://github.com/thumbor/thumbor) - thumbor is an open-source photo thumbnail service by globo.com
 * [django-nginx-image](https://github.com/adw0rd/django-nginx-image) - Resizing and cropping images via Nginx, as well as caching the result
-* [doubanrobot](https://github.com/vi5i0n/doubanrobot) - A simple robot for douban.com
+* [doubanrobot](https://github.com/linsir/doubanrobot) - A simple robot for Douban.com
 * [django-modeldict](https://github.com/YPlan/django-modeldict) - Stores a model as a dictionary
 * [durabledict](https://github.com/disqus/durabledict) - Dictionary-style access to different types of models.
 * [Tcp-DNS-proxy](https://github.com/henices/Tcp-DNS-proxy) - A TCP dns proxy which can get the RIGHT ip address
@@ -2009,7 +2235,7 @@
 * [raven-python](https://github.com/getsentry/raven-python) - Raven is a Python client for Sentry (getsentry.com)
 * [uap-python](https://github.com/ua-parser/uap-python) - Python implementation of ua-parser
 * [python-user-agents](https://github.com/selwin/python-user-agents) - A Python library that provides an easy way to identify devices like mobile phones, tablets and their capabilities by parsing (browser) user agent strings.
-* [PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3 in Python
+* [PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3
 * [sentry](https://github.com/getsentry/sentry) - Sentry is cross-platform crash reporting built with love
 * [mplayerosx-builds](https://github.com/WilliamRen/mplayerosx-builds) - Automatically exported from code.google.com/p/mplayerosx-builds
 * [scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
@@ -2017,7 +2243,7 @@
 * [XlsxWriter](https://github.com/jmcnamara/XlsxWriter) - A Python module for creating Excel XLSX files.
 * [iOS-checkIPA](https://github.com/apperian/iOS-checkIPA) - Scans an IPA file and parses its Info.plist and embedded.mobileprovision files. Performs checks of expected key/value relationships and displays the results.
 * [cutout](https://github.com/jojoin/cutout) - A toolbox for data grabbing and processing in python 3
-* [aliyun-openapi-python-sdk](https://github.com/aliyun/aliyun-openapi-python-sdk) - 
+* [aliyun-openapi-python-sdk](https://github.com/aliyun/aliyun-openapi-python-sdk) - Alibaba Cloud SDK for PYTHON
 * [XX-Net](https://github.com/XX-net/XX-Net) - a web proxy tool
 * [OneServer](https://github.com/1Server/OneServer) - The OneServer server.
 * [OneServer-Plugins](https://github.com/1Server/OneServer-Plugins) - The official OneServer plugins.
@@ -2080,6 +2306,7 @@
 
 ## Ruby
 
+* [svn2git](https://github.com/nirvdrum/svn2git) - Ruby tool for importing existing svn projects into git.
 * [nginx-image-server](https://github.com/wantedly/nginx-image-server) - Dockerfile for Dynamic Image Transformation Server with Nginx and Small Light module
 * [shenzhen](https://github.com/nomad/shenzhen) - CLI for Building & Distributing iOS Apps (.ipa Files)
 * [fir-cli](https://github.com/FIRHQ/fir-cli) - fir.im command-line interface
@@ -2090,7 +2317,7 @@
 * [jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware, static site generator in Ruby
 * [redmine](https://github.com/redmine/redmine) - Mirror of redmine code source - Official SVN repository is at https://svn.redmine.org/redmine - contact: @jbbarth or jeanbaptiste.barth (at) gmail (dot) com
 * [legacy-homebrew](https://github.com/Homebrew/legacy-homebrew) - :skull: The former home of :beer: the missing package manager for OS X
-* [gitlabhq](https://github.com/gitlabhq/gitlabhq) - GitLab is version control for your server | Please open issues in our issue tracker on GitLab.com
+* [gitlabhq](https://github.com/gitlabhq/gitlabhq) - GitLab CE | Please open new issues in our issue tracker on GitLab.com
 * [htttee](https://github.com/benburkert/htttee) - unix's tee over http
 * [ruby-mime-types](https://github.com/mime-types/ruby-mime-types) - Ruby MIME type registry and library
 * [html-pipeline](https://github.com/jch/html-pipeline) - HTML processing filters and utilities
@@ -2107,6 +2334,13 @@
 
 ## Shell
 
+* [DeployDjango](https://github.com/yask123/DeployDjango) - Instantly deploy your Django Apps!
+* [awesome-android](https://github.com/snowdream/awesome-android) - android libs from github or other websites
+* [Android-AppMsg-Gradle-Sample](https://github.com/johnkil/Android-AppMsg-Gradle-Sample) - The sample project that uses Android-AppMsg via Gradle.
+* [gitflow](https://github.com/nvie/gitflow) - Git extensions to provide high-level repository operations for Vincent Driessen's branching model.
+* [raspberry_pi_stuff](https://github.com/bostoneboy/raspberry_pi_stuff) - some config and shell files
+* [redis_nginx_adapter](https://github.com/wandenberg/redis_nginx_adapter) - Adapter to use hiredis with async connections inside a nginx module
+* [varnish-geoip-plugin](https://github.com/meetup/varnish-geoip-plugin) - GeoIP plugin for Varnish
 * [vagrant-thumbor-base](https://github.com/torchbox/vagrant-thumbor-base) - Vagrant box providing a thumbor service over HTTP
 * [ansible-examples](https://github.com/ansible/ansible-examples) - A few starter examples of ansible playbooks, to show features and how they work together.  See http://galaxy.ansible.com for example roles from the Ansible community for deploying many popular applications.
 * [pi-gen](https://github.com/RPi-Distro/pi-gen) - Tool used to create the raspberrypi.org Raspbian images
@@ -2121,7 +2355,7 @@
 * [maven-bash-completion](https://github.com/juven/maven-bash-completion) - Maven Bash Auto Completion
 * [maven-android-sdk-deployer](https://github.com/simpligility/maven-android-sdk-deployer) - A tool to install components of the Android SDK into a Maven repository or repository manager to use with the Android Maven Plugin, Gradle and other tools.
 * [pkg_uninstaller](https://github.com/mpapis/pkg_uninstaller) - OSX Packages Uninstaller
-* [osxfuse](https://github.com/osxfuse/osxfuse) - FUSE for OS X extends OS X by adding support for FUSE file systems
+* [osxfuse](https://github.com/osxfuse/osxfuse) - FUSE for macOS extends macOS by adding support for FUSE file systems
 * [OpenSSL-for-iPhone](https://github.com/x2on/OpenSSL-for-iPhone) - A script for compiling OpenSSL for iOS Devices (iPhone, iPad, iPod Touch, AppleTV)
 * [IDZBuild](https://github.com/iosdevzone/IDZBuild) - A set of scripts for building Open Source Projects.
 * [OneStack](https://github.com/Kayven/OneStack) - A tool to deploy complete and real OpenStack cloud computing service.（一键部署OpenStack）
@@ -2136,9 +2370,11 @@
 
 ## Swift
 
-* [Material](https://github.com/CosmicMind/Material) - Material is an animation and graphics framework that allows developers to easily create beautiful applications.
+* [YTKKeyValueStore_Swift](https://github.com/sgxiang/YTKKeyValueStore_Swift) - A simple Key-Value storage tool, using Sqlite as backend.
+* [awesome-swift](https://github.com/matteocrippa/awesome-swift) - A collaborative list of awesome swift resources. Feel free to contribute!
+* [Material](https://github.com/CosmicMind/Material) - Material is an animation and graphics framework that is used to create beautiful applications.
 * [swift-package-manager](https://github.com/apple/swift-package-manager) - The Package Manager for the Swift Programming Language
-* [Kingfisher](https://github.com/onevcat/Kingfisher) - A lightweight and pure Swift implemented library for downloading and caching image from the web.
+* [Kingfisher](https://github.com/onevcat/Kingfisher) - A lightweight, pure-Swift library for downloading and caching images from the web.
 * [Worktile-SwiftSDK](https://github.com/isaced/Worktile-SwiftSDK) - Worktile 基于 Swift 的 SDK
 * [Alamofire](https://github.com/Alamofire/Alamofire) - Elegant HTTP Networking in Swift
 * [Pitaya](https://github.com/johnlui/Pitaya) - A Swift HTTP / HTTPS networking library just incidentally execute on machines
@@ -2149,12 +2385,15 @@
 * [aerogear-ios-push](https://github.com/aerogear/aerogear-ios-push) - iOS Push Notification Registration for UnifiedPush Server
 * [XCGLogger](https://github.com/DaveWoodCom/XCGLogger) - A debug log framework for use in Swift projects. Allows you to log details to the console (and optionally a file), just like you would have with NSLog or println, but with additional information, such as the date, function name, filename and line number.
 * [RegX](https://github.com/kzaher/RegX) - Prettify plugin for Xcode. It enables alignment of specific source code elements and makes code easier to read and understand.
+* [firefox-ios](https://github.com/mozilla-mobile/firefox-ios) - Firefox for iOS
 * [SuperRecord](https://github.com/michaelarmstrong/SuperRecord) - A small set of utilities to make working with CoreData and Swift a bit easier.
 * [SQLite.swift](https://github.com/stephencelis/SQLite.swift) - A type-safe, Swift-language layer over SQLite3.
-* [AFDateHelper](https://github.com/melvitax/AFDateHelper) - Convenience extension for NSDate in Swift
-* [RNCryptor](https://github.com/RNCryptor/RNCryptor) - CCCryptor (AES encryption) wrappers for iOS and Mac. -- For Swift, see swift branch and release 4.0.
+* [DateHelper](https://github.com/melvitax/DateHelper) - Convenience extension for NSDate in Swift
+* [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) - Streams of values over time
+* [RNCryptor](https://github.com/RNCryptor/RNCryptor) - CCCryptor (AES encryption) wrappers for iOS and Mac in Swift. -- For ObjC, see RNCryptor/RNCryptor-objc
 * [SwiftWeather](https://github.com/JakeLin/SwiftWeather) - SwiftWeather is an iOS weather app developed in Swift 2. The app has been actively upgrading to adopt the latest features of iOS and Swift language.
 * [AMScrollingNavbar](https://github.com/andreamazz/AMScrollingNavbar) - Scrollable UINavigationBar that follows the scrolling of a UIScrollView
+* [TDBadgedCell](https://github.com/tmdvs/TDBadgedCell) - TDBadgedCell is a table view cell class that adds a badge, similar to the badges in Apple's own apps
 * [Hackers](https://github.com/weiran/Hackers) - Hackers is an elegant iOS app for reading Hacker News links and comments. Written in Swift.
 
 ## Tcl
@@ -2169,11 +2408,14 @@
 
 ## TypeScript
 
+* [angular](https://github.com/angular/angular) - 
+* [leashed-in](https://github.com/kara/leashed-in) - 
+* [material2](https://github.com/angular/material2) - Material Design components for Angular 2
 * [angular-next-starter-kit](https://github.com/alamgird/angular-next-starter-kit) - Seed project for developing angular 1.x applications in preparation for migrating on to Angular 2.0
 * [code-push](https://github.com/Microsoft/code-push) - A cloud service that enables Cordova and React Native developers to deploy mobile app updates directly to their users’ devices.
-* [NativeScript](https://github.com/NativeScript/NativeScript) - Build truly native cross-platform iOS and Android apps with JavaScript
+* [NativeScript](https://github.com/NativeScript/NativeScript) - NativeScript is an open source framework for building truly native mobile apps with JavaScript. Use web skills, like Angular, FlexBox and CSS, and get native UI and performance on iOS and Android.
 * [hawkular-dist-old](https://github.com/hawkular/hawkular-dist-old) - ARCHIVED - The Hawkular integration project
-* [ionic](https://github.com/driftyco/ionic) - Advanced HTML5 mobile development framework and SDK. Build incredible mobile apps with web technologies you already know and love. Best friends with AngularJS.
+* [ionic](https://github.com/driftyco/ionic) - Build amazing native and progressive web apps with Angular and open web technologies. One app running on everything 🎉
 
 ## VimL
 
