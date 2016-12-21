@@ -401,6 +401,7 @@
 
 ## GCC Machine Description
 
+* [android-blog](https://github.com/thinkSky1206/android-blog) - android文章
 * [android-open-source-project-cracking](https://github.com/wingjay/android-open-source-project-cracking) - 通过对流行的优质android开源项目分析、学习、仿写，最终理解，不仅帮你掌握最新的android技术，更能让你理解开源项目的精华之处，这些都是你成为一名高级android developer必不可少的。Analysis for Popular & Hot Android open-source Applications & Libraries will help you grow into a Senior Android developer. Follow us, do practice in the right and fast way.
 * [CordovaCn](https://github.com/CordovaCn/CordovaCn) - Apache Cordova is an open-source mobile development framework. It allows you to use standard web technologies such as HTML5, CSS3, and JavaScript for cross-platform development, avoiding each mobile platforms' native development language. (Apache Cordova是一个开放源代码的移动开发框架，它允许你使用web技术如:JavaScript,HTML,CSS进行跨平台开发，避免使用原生开发。)
 
@@ -502,6 +503,7 @@
 * [AndroidUIView](https://github.com/drakeet/AndroidUIView) - It's a very simple custom views library according to UIButton of iOS, all of the views can be automatically set a pressed effect to a button with a simple background image without writing a selector.xml
 * [AndroidSample](https://github.com/whilu/AndroidSample) - Some Android samples, very useful.
 * [graphql-java-type-generator](https://github.com/graphql-java/graphql-java-type-generator) - This library will autogenerate GraphQL types for usage in com.graphql-java:graphql-java
+* [SmarterStreaming](https://github.com/daniulive/SmarterStreaming) - 国内外为数不多不依赖开源框架、不依赖CDN实现秒开、公网毫秒级延迟、跨平台(windows/android/iOS)rtmp推流、rtmp/rtsp直播播放利器"SmarterStreaming"，系daniulive(大牛直播)出品的跨平台视频采集、直播SDK(支持rtmp推流/rtmp播放/rtsp播放，如windows推流(windows pusher)/android推流(android pusher)/iOS推流(iOS pusher)/windows播放器(windows player)/android播放器(android player)/iOS播放器(iOS player))，也许是最靠谱的视频直播推流、播放SDK之一，助您轻松实现类似于花椒、映客、斗鱼手机直播推送与播放。
 * [mybatis-3](https://github.com/mybatis/mybatis-3) - MyBatis SQL mapper framework for Java
 * [ARchitekt](https://github.com/FKinn/ARchitekt) - SLAM based Android AR application with Kudan SDK.
 * [stuff](https://github.com/darryd/stuff) - Android App for the Vancouver Poetry Slam
@@ -530,7 +532,6 @@
 * [CircleView](https://github.com/youngkaaa/CircleView) - Circle Demo for me
 * [Fractal](https://github.com/redknotmiaoyuqiao/Fractal) - 生成好看的Fractal图形
 * [hello-weex](https://github.com/coderyi/hello-weex) - hello-weex包括一个Weex App(GitHub第三方App)，和自己扩展的WeexiOSKit(iOS上的常用组件与模块)。
-* [ReactNativeOne](https://github.com/lipeiwei-szu/ReactNativeOne) - 基于React-Native的高仿「ONE·一个」，兼容Android、iOS双平台
 * [RxJoke](https://github.com/JDDJJ/RxJoke) - RxJoke是一个基于Rxjava,Retrofit,Dagger2和Mvp设计的一款App。
 * [AppCodeArchitecture](https://github.com/Frank-Zhu/AppCodeArchitecture) - 安卓APP代码架构，包含比较常用的开源库使用
 * [newsApp](https://github.com/xiangzhihong/newsApp) - 仿网易新闻new,属于个人业余时间做的一个小项目； 界面仿网易新闻客户端ABC  主要分为四大板块： 【文章】 【视频】 【论坛】 【游戏】  ABC  ABC  整体架构采用了MVC的设计模式 项目中由于存在大量网络图片，所以采用了二级缓存 主要使用的第三方开源框架有： 1.viewpagerindicator，主要使用在项目中Tab标签上 2.butterknife 一键注解，一个非常好用的工具 3.xutils 目前这是该项目的第一个版本，
@@ -1594,6 +1595,7 @@
 * [hls.js](https://github.com/dailymotion/hls.js) - MSE-based HLS client - http://dailymotion.github.io/hls.js/demo
 * [flv.js](https://github.com/Bilibili/flv.js) - HTML5 FLV Player
 * [zmxy](https://github.com/bmqb/zmxy) - 芝麻信用NodeJS SDK
+* [ReactNativeOne](https://github.com/lipeiwei-szu/ReactNativeOne) - 基于React-Native的高仿「ONE·一个」，兼容Android、iOS双平台
 * [roncoo-pay](https://github.com/roncoo/roncoo-pay) - 龙果支付系统是国内首款开源的互联网支付系统，其核心目标是汇聚所有主流支付渠道，打造一款轻量、便捷、易用，且集支付、资金对账、资金清结算于一体的支付系统，满足互联网业务系统的收款和业务资金管理需求。
 * [django-highcharts](https://github.com/ernestoarbitrio/django-highcharts) - Plot graphs with django and highcharts
 * [django-chartjs](https://github.com/novafloss/django-chartjs) - Django Class Based Views to generate Ajax charts js parameters.
@@ -1770,7 +1772,7 @@
 
 ## Objective-C
 
-* [SmarterStreaming](https://github.com/daniulive/SmarterStreaming) - 国内外为数不多不依赖开源框架、不依赖CDN实现秒开、公网毫秒级延迟、跨平台(windows/android/iOS)rtmp推流、rtmp/rtsp直播播放利器"SmarterStreaming"，系daniulive(大牛直播)出品的跨平台视频采集、直播SDK(支持rtmp推流/rtmp播放/rtsp播放，如windows推流(windows pusher)/android推流(android pusher)/iOS推流(iOS pusher)/windows播放器(windows player)/android播放器(android player)/iOS播放器(iOS player))，也许是最靠谱的视频直播推流、播放SDK之一，助您轻松实现类似于花椒、映客、斗鱼手机直播推送与播放。
+* [SYWeChat](https://github.com/reesun1130/SYWeChat) - * SYWeChatDemo 模仿了微信聊天UI布局，其中支持用户输入模块(可灵活定制包含输入框、录音、表情选择、拍照、从相册选取照片功能)、录音模块(采用opencore- amr[支持armv7、armv7s、arm64]，语音输出格式amr并完美支持IOS和Android系统播放) * * 使用时需添加SYCore.framework及SYIMKit.framework、SYIMKit.bundle资源文件  * 此demo仅供大家学习讨论，同时也参考了一些大牛的开源demo，欢迎拍砖
 * [piwik-sdk-ios](https://github.com/piwik/piwik-sdk-ios) - Piwik iOS SDK: a Piwik tracker written in Objective-C
 * [MongoHub-Mac](https://github.com/jeromelebel/MongoHub-Mac) - Mac Native Mongodb Client
 * [fansky](https://github.com/simpleapples/fansky) - 饭斯基 - 一款简洁的第三方饭否客户端
@@ -2747,7 +2749,7 @@
 * [LTMorphingLabel](https://github.com/lexrus/LTMorphingLabel) - Graceful morphing effects for UILabel written in Swift.
 * [YTKKeyValueStore_Swift](https://github.com/sgxiang/YTKKeyValueStore_Swift) - A simple Key-Value storage tool, using Sqlite as backend.
 * [awesome-swift](https://github.com/matteocrippa/awesome-swift) - A collaborative list of awesome swift resources. Feel free to contribute!
-* [Material](https://github.com/CosmicMind/Material) - Material is an animation and graphics framework that is used to create beautiful applications.
+* [Material](https://github.com/CosmicMind/Material) - Material is an animation and graphics framework for Google's Material Design in Swift.
 * [swift-package-manager](https://github.com/apple/swift-package-manager) - The Package Manager for the Swift Programming Language
 * [Kingfisher](https://github.com/onevcat/Kingfisher) - A lightweight, pure-Swift library for downloading and caching images from the web.
 * [Worktile-SwiftSDK](https://github.com/isaced/Worktile-SwiftSDK) - Worktile 基于 Swift 的 SDK
